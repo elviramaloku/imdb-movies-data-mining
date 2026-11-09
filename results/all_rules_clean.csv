@@ -1,0 +1,1118 @@
+antecedents,consequents,support,confidence,lift
+"Director_Other, RatingCategory_Bad, MetaCat_Medium","VotesCat_Low, DurCat_Short",0.05679449770737807,0.6753407682775712,3.9491590569113786
+"Director_Other, DurCat_Short, RatingCategory_Bad, MetaCat_Medium",VotesCat_Low,0.05679449770737807,0.6753407682775712,3.9467539661337225
+"Director_Other, RatingCategory_Bad, MetaCat_Medium",VotesCat_Low,0.05679449770737807,0.6753407682775712,3.9467539661337225
+"RatingCategory_Bad, MetaCat_Medium","VotesCat_Low, DurCat_Short",0.057211338057523965,0.6695121951219511,3.915075578543719
+"RatingCategory_Bad, MetaCat_Medium",VotesCat_Low,0.057211338057523965,0.6695121951219511,3.9126912450610494
+"DurCat_Short, RatingCategory_Bad, MetaCat_Medium",VotesCat_Low,0.057211338057523965,0.6695121951219511,3.9126912450610494
+"RatingCategory_Bad, MetaCat_Medium","Director_Other, VotesCat_Low, DurCat_Short",0.05679449770737807,0.6646341463414633,3.907983620277379
+"RatingCategory_Bad, MetaCat_Medium","Director_Other, VotesCat_Low",0.05679449770737807,0.6646341463414633,3.9055904888503874
+"DurCat_Short, RatingCategory_Bad, MetaCat_Medium","Director_Other, VotesCat_Low",0.05679449770737807,0.6646341463414633,3.9055904888503874
+"YearCat_2015_plus, MetaCat_High, VotesCat_High","DurCat_Short, RatingCategory_Good",0.05075031263026261,0.8226351351351352,2.7601422226422225
+"YearCat_2015_plus, DurCat_Short, MetaCat_High, VotesCat_High",RatingCategory_Good,0.05075031263026261,0.8226351351351352,2.751483707478828
+"YearCat_2015_plus, MetaCat_High, VotesCat_High",RatingCategory_Good,0.05075031263026261,0.8226351351351352,2.751483707478828
+"MetaCat_High, VotesCat_High","DurCat_Short, RatingCategory_Good",0.11973739057940809,0.8154719659332861,2.7361080367467876
+"MetaCat_High, VotesCat_High",RatingCategory_Good,0.11984160066694456,0.8161816891412349,2.729898741373053
+"MetaCat_High, DurCat_Short, VotesCat_High",RatingCategory_Good,0.11973739057940809,0.8160511363636364,2.729462078963212
+"Director_Other, MetaCat_High, VotesCat_High","DurCat_Short, RatingCategory_Good",0.10577323884952064,0.8081210191082803,2.7114438109661037
+"Director_Other, MetaCat_High, VotesCat_High",RatingCategory_Good,0.10587744893705711,0.8089171974522293,2.70560105498487
+"Director_Other, MetaCat_High, DurCat_Short, VotesCat_High",RatingCategory_Good,0.10577323884952064,0.8087649402390439,2.705091797327942
+"MetaCat_High, VotesCat_High","Director_Other, DurCat_Short, RatingCategory_Good",0.10577323884952064,0.7203690560681335,2.6016791351260102
+"MetaCat_High, VotesCat_High","Director_Other, RatingCategory_Good",0.10587744893705711,0.7210787792760823,2.595450849937466
+"MetaCat_High, DurCat_Short, VotesCat_High","Director_Other, RatingCategory_Good",0.10577323884952064,0.7208806818181819,2.5947378179772214
+"MetaCat_High, Genre_Drama","DurCat_Short, RatingCategory_Good",0.05033347228011672,0.7092511013215859,2.379711037860817
+"MetaCat_High, Genre_Drama",RatingCategory_Good,0.05043768236765319,0.71071953010279,2.37715741054945
+"MetaCat_High, DurCat_Short, Genre_Drama",RatingCategory_Good,0.05033347228011672,0.7102941176470589,2.375734525249626
+"YearCat_2015_plus, MetaCat_High","DurCat_Short, RatingCategory_Good",0.06982075864943726,0.6928645294725956,2.3247300786080514
+MetaCat_High,"DurCat_Short, RatingCategory_Good",0.17121717382242602,0.6926644182124789,2.3240586563520793
+MetaCat_High,RatingCategory_Good,0.17152980408503543,0.693929173693086,2.320998379490712
+"MetaCat_High, DurCat_Short",RatingCategory_Good,0.17121717382242602,0.6935415787252005,2.31970198307669
+"YearCat_2015_plus, MetaCat_High",RatingCategory_Good,0.06982075864943726,0.6928645294725956,2.317437443296977
+"YearCat_2015_plus, DurCat_Short, MetaCat_High",RatingCategory_Good,0.06982075864943726,0.6928645294725956,2.317437443296977
+"Director_Other, YearCat_2015_plus, MetaCat_High","DurCat_Short, RatingCategory_Good",0.06450604418507712,0.6893095768374164,2.312802342423723
+"YearCat_2015_plus, MetaCat_High","Director_Other, DurCat_Short, RatingCategory_Good",0.06450604418507712,0.640124095139607,2.3118670745049563
+"Director_Other, YearCat_2015_plus, DurCat_Short, MetaCat_High",RatingCategory_Good,0.06450604418507712,0.6893095768374164,2.305547124200714
+"Director_Other, MetaCat_High, YearCat_2015_plus",RatingCategory_Good,0.06450604418507712,0.6893095768374164,2.305547124200714
+"YearCat_2015_plus, DurCat_Short, MetaCat_High","Director_Other, RatingCategory_Good",0.06450604418507712,0.640124095139607,2.3040625720028762
+"YearCat_2015_plus, MetaCat_High","Director_Other, RatingCategory_Good",0.06450604418507712,0.640124095139607,2.3040625720028762
+"Director_Other, MetaCat_High","DurCat_Short, RatingCategory_Good",0.1558982909545644,0.6840420667581161,2.2951285568569513
+"Director_Other, MetaCat_High",RatingCategory_Good,0.1562109212171738,0.6854138088705989,2.292516873447984
+"Director_Other, MetaCat_High, DurCat_Short",RatingCategory_Good,0.1558982909545644,0.6849816849816849,2.2910715402872945
+MetaCat_High,"Director_Other, DurCat_Short, RatingCategory_Good",0.1558982909545644,0.6306913996627318,2.2778000267834306
+MetaCat_High,"Director_Other, RatingCategory_Good",0.1562109212171738,0.6319561551433389,2.274662890005806
+"MetaCat_High, DurCat_Short","Director_Other, RatingCategory_Good",0.1558982909545644,0.6314900802026171,2.272985299934101
+"MetaCat_High, YearCat_2000_2015","DurCat_Short, RatingCategory_Good",0.05210504376823676,0.6729475100942126,2.2579036037986238
+"MetaCat_High, DurCat_Short, YearCat_2000_2015",RatingCategory_Good,0.05210504376823676,0.6729475100942126,2.2508206019045187
+"MetaCat_High, YearCat_2000_2015",RatingCategory_Good,0.05210504376823676,0.6729475100942126,2.2508206019045187
+"RatingCategory_Average, Certificate_UA","Director_Other, DurCat_Short, VotesCat_High",0.05054189245518966,0.7282282282282283,1.8615018854763128
+"RatingCategory_Average, Certificate_UA","Director_Other, VotesCat_High",0.05054189245518966,0.7282282282282283,1.8610061459595415
+"RatingCategory_Average, DurCat_Short, Certificate_UA","Director_Other, VotesCat_High",0.05054189245518966,0.7282282282282283,1.8610061459595415
+Certificate_UA,"DurCat_Short, VotesCat_High",0.09722801167152981,0.782062028499581,1.8484402033206844
+"DurCat_Short, Certificate_UA",VotesCat_High,0.09722801167152981,0.782062028499581,1.847985034592952
+Certificate_UA,VotesCat_High,0.09722801167152981,0.782062028499581,1.847985034592952
+"RatingCategory_Average, Certificate_UA","DurCat_Short, VotesCat_High",0.054085035431429763,0.7792792792792794,1.8418630453113214
+"RatingCategory_Average, DurCat_Short, Certificate_UA",VotesCat_High,0.054085035431429763,0.7792792792792794,1.8414094961743326
+"RatingCategory_Average, Certificate_UA",VotesCat_High,0.054085035431429763,0.7792792792792794,1.8414094961743326
+"Director_Other, RatingCategory_Average, Certificate_UA","DurCat_Short, VotesCat_High",0.05054189245518966,0.7747603833865814,1.8311824233935061
+"Director_Other, RatingCategory_Average, DurCat_Short, Certificate_UA",VotesCat_High,0.05054189245518966,0.7747603833865814,1.830731504303776
+"Director_Other, RatingCategory_Average, Certificate_UA",VotesCat_High,0.05054189245518966,0.7747603833865814,1.830731504303776
+Certificate_UA,"Director_Other, DurCat_Short, VotesCat_High",0.08899541475614839,0.7158424140821458,1.8298411842121125
+Certificate_UA,"Director_Other, VotesCat_High",0.08899541475614839,0.7158424140821458,1.829353876306863
+"DurCat_Short, Certificate_UA","Director_Other, VotesCat_High",0.08899541475614839,0.7158424140821458,1.829353876306863
+"Director_Other, Certificate_UA","DurCat_Short, VotesCat_High",0.08899541475614839,0.7728506787330317,1.8266687470744265
+"Director_Other, Certificate_UA",VotesCat_High,0.08899541475614839,0.7728506787330317,1.8262189394538715
+"Director_Other, DurCat_Short, Certificate_UA",VotesCat_High,0.08899541475614839,0.7728506787330317,1.8262189394538715
+"YearCat_2015_plus, MetaCat_High, RatingCategory_Good","DurCat_Short, VotesCat_High",0.05075031263026261,0.7268656716417911,1.7179810308065582
+"YearCat_2015_plus, DurCat_Short, MetaCat_High, RatingCategory_Good",VotesCat_High,0.05075031263026261,0.7268656716417911,1.7175579869674038
+"YearCat_2015_plus, MetaCat_High, RatingCategory_Good",VotesCat_High,0.05075031263026261,0.7268656716417911,1.7175579869674038
+"VotesCat_Low, RatingCategory_Bad","Director_Other, DurCat_Short, MetaCat_Medium",0.05679449770737807,0.8637083993660857,1.7018779877447554
+"VotesCat_Low, DurCat_Short, RatingCategory_Bad","Director_Other, MetaCat_Medium",0.05679449770737807,0.8637083993660857,1.699783798260246
+"VotesCat_Low, RatingCategory_Bad","Director_Other, MetaCat_Medium",0.05679449770737807,0.8637083993660857,1.699783798260246
+"MetaCat_High, DurCat_Short, RatingCategory_Good",VotesCat_High,0.11973739057940809,0.6993304930006087,1.6524933294345827
+"MetaCat_High, RatingCategory_Good",VotesCat_High,0.11984160066694456,0.6986634264884569,1.6509170747557824
+"VotesCat_Low, RatingCategory_Bad","DurCat_Short, MetaCat_Medium",0.057211338057523965,0.8700475435816165,1.650321452502311
+"MetaCat_High, RatingCategory_Good","DurCat_Short, VotesCat_High",0.11973739057940809,0.6980558930741191,1.6498877709209967
+"Director_Other, VotesCat_Low, RatingCategory_Bad","DurCat_Short, MetaCat_Medium",0.05679449770737807,0.8692185007974481,1.6487489095972152
+"VotesCat_Low, DurCat_Short, RatingCategory_Bad",MetaCat_Medium,0.057211338057523965,0.8700475435816165,1.6483664813838483
+"VotesCat_Low, RatingCategory_Bad",MetaCat_Medium,0.057211338057523965,0.8700475435816165,1.6483664813838483
+"Director_Other, VotesCat_Low, DurCat_Short, RatingCategory_Bad",MetaCat_Medium,0.05679449770737807,0.8692185007974481,1.6467958013133883
+"Director_Other, VotesCat_Low, RatingCategory_Bad",MetaCat_Medium,0.05679449770737807,0.8692185007974481,1.6467958013133883
+VotesCat_Low,"Director_Other, DurCat_Short, MetaCat_Medium",0.14047519799916633,0.8209500609013398,1.617625623081983
+VotesCat_Low,"Director_Other, MetaCat_Medium",0.1405794080867028,0.8215590742996346,1.616833649913719
+"VotesCat_Low, DurCat_Short","Director_Other, MetaCat_Medium",0.14047519799916633,0.8214503351614869,1.616619650576216
+"VotesCat_Low, RatingCategory_Average","Director_Other, DurCat_Short, MetaCat_Medium",0.06596498541058775,0.8188874514877102,1.6135613931162358
+"VotesCat_Low, RatingCategory_Average","Director_Other, MetaCat_Medium",0.06596498541058775,0.8188874514877102,1.6115758786866423
+"VotesCat_Low, RatingCategory_Average, DurCat_Short","Director_Other, MetaCat_Medium",0.06596498541058775,0.8188874514877102,1.6115758786866423
+"Director_Other, MetaCat_High, DurCat_Short, RatingCategory_Good",VotesCat_High,0.10577323884952064,0.6784759358288771,1.6032147451893386
+"Director_Other, MetaCat_High, RatingCategory_Good",VotesCat_High,0.10587744893705711,0.6777851901267512,1.6015825374184447
+"DurCat_Short, Certificate_A",VotesCat_High,0.10389745727386411,0.6773097826086956,1.600459166193805
+"Director_Other, MetaCat_High, RatingCategory_Good","DurCat_Short, VotesCat_High",0.10577323884952064,0.6771180787191462,1.6004002668445632
+Certificate_A,VotesCat_High,0.10400166736140058,0.6770691994572591,1.5998906766786156
+Certificate_A,"DurCat_Short, VotesCat_High",0.10389745727386411,0.6763907734056988,1.5986812466997746
+"VotesCat_Low, YearCat_2015_plus","Director_Other, MetaCat_Medium",0.053876615256356813,0.8065522620904836,1.5873001450000577
+"VotesCat_Low, YearCat_2015_plus, DurCat_Short","Director_Other, MetaCat_Medium",0.05377240516882034,0.8062499999999999,1.5867052912223134
+"VotesCat_Low, YearCat_2015_plus","Director_Other, DurCat_Short, MetaCat_Medium",0.05377240516882034,0.8049921996879875,1.5861817552784248
+"MetaCat_High, DurCat_Short, RatingCategory_Good","Director_Other, VotesCat_High",0.10577323884952064,0.6177723676202069,1.5787333261474048
+"MetaCat_High, RatingCategory_Good","Director_Other, VotesCat_High",0.10587744893705711,0.6172539489671932,1.5774084938186912
+"MetaCat_High, RatingCategory_Good","Director_Other, DurCat_Short, VotesCat_High",0.10577323884952064,0.6166464155528555,1.57627570688471
+"Director_Other, DurCat_Short, Certificate_A",VotesCat_High,0.09358065860775323,0.663710273466371,1.568324004970031
+"Director_Other, Certificate_A",VotesCat_High,0.0936848686952897,0.6634686346863469,1.5677530210416608
+"Director_Other, Certificate_A","DurCat_Short, VotesCat_High",0.09358065860775323,0.6627306273062731,1.566394852125861
+"Director_Other, VotesCat_Low","DurCat_Short, MetaCat_Medium",0.14047519799916633,0.8254745866503369,1.5657746854114711
+VotesCat_Low,"DurCat_Short, MetaCat_Medium",0.14120466861192163,0.8252131546894031,1.565278796679089
+"Director_Other, VotesCat_Low",MetaCat_Medium,0.1405794080867028,0.8260869565217391,1.5650800463539207
+"Director_Other, VotesCat_Low, DurCat_Short",MetaCat_Medium,0.14047519799916633,0.8259803921568628,1.5648781526430908
+VotesCat_Low,MetaCat_Medium,0.1413088786994581,0.8258221680876978,1.5645783859762188
+"VotesCat_Low, DurCat_Short",MetaCat_Medium,0.14120466861192163,0.8257160268129189,1.5643772938394411
+"Director_Other, VotesCat_Low, RatingCategory_Average","DurCat_Short, MetaCat_Medium",0.06596498541058775,0.8242187500000001,1.5633925924095673
+"Director_Other, VotesCat_Low, RatingCategory_Average, DurCat_Short",MetaCat_Medium,0.06596498541058775,0.8242187500000001,1.561540597235933
+"Director_Other, VotesCat_Low, RatingCategory_Average",MetaCat_Medium,0.06596498541058775,0.8242187500000001,1.561540597235933
+"VotesCat_Low, RatingCategory_Average","DurCat_Short, MetaCat_Medium",0.06627761567319716,0.8227684346701164,1.5606416088346386
+"DurCat_Short, Certificate_A","Director_Other, VotesCat_High",0.09358065860775323,0.6100543478260869,1.5590097261622182
+"VotesCat_Low, RatingCategory_Average, DurCat_Short",MetaCat_Medium,0.06627761567319716,0.8227684346701164,1.5587928724766904
+"VotesCat_Low, RatingCategory_Average",MetaCat_Medium,0.06627761567319716,0.8227684346701164,1.5587928724766904
+Certificate_A,"Director_Other, VotesCat_High",0.0936848686952897,0.6099050203527815,1.5586281159268418
+Certificate_A,"Director_Other, DurCat_Short, VotesCat_High",0.09358065860775323,0.6092265943012212,1.557309109993212
+"VotesCat_Low, YearCat_2015_plus",MetaCat_Medium,0.054189245518966235,0.8112324492979719,1.5369371339513007
+"VotesCat_Low, YearCat_2015_plus, DurCat_Short",MetaCat_Medium,0.054085035431429763,0.8109375,1.5363783316880553
+"VotesCat_Low, YearCat_2015_plus","DurCat_Short, MetaCat_Medium",0.054085035431429763,0.8096723868954758,1.535800795542397
+"Director_Other, VotesCat_Low, YearCat_2015_plus",MetaCat_Medium,0.053876615256356813,0.810344827586207,1.5352554719678662
+"Director_Other, VotesCat_Low, YearCat_2015_plus, DurCat_Short",MetaCat_Medium,0.05377240516882034,0.8100470957613816,1.5346913980110992
+"Director_Other, VotesCat_Low, YearCat_2015_plus","DurCat_Short, MetaCat_Medium",0.05377240516882034,0.8087774294670848,1.5341032245831479
+"Director_Other, Certificate_R, RatingCategory_Average","DurCat_Short, VotesCat_Medium",0.06169237182159233,0.6096807415036045,1.5055317538519273
+"Director_Other, Certificate_R, RatingCategory_Average, DurCat_Short",VotesCat_Medium,0.06169237182159233,0.6096807415036045,1.5028246584815281
+"Director_Other, Certificate_R, RatingCategory_Average",VotesCat_Medium,0.06169237182159233,0.6096807415036045,1.5028246584815281
+"Certificate_R, RatingCategory_Average","DurCat_Short, VotesCat_Medium",0.0637765735723218,0.6083499005964216,1.5022454055901342
+"Certificate_R, RatingCategory_Average, DurCat_Short",VotesCat_Medium,0.0637765735723218,0.6083499005964216,1.4995442193997588
+"Certificate_R, RatingCategory_Average",VotesCat_Medium,0.0637765735723218,0.6083499005964216,1.4995442193997588
+"RatingCategory_Average, Certificate_A","DurCat_Short, VotesCat_High",0.05252188411838266,0.6339622641509435,1.4983994795055304
+"RatingCategory_Average, Certificate_A",VotesCat_High,0.05252188411838266,0.6339622641509435,1.498030506474379
+"RatingCategory_Average, DurCat_Short, Certificate_A",VotesCat_High,0.05252188411838266,0.6339622641509435,1.498030506474379
+"YearCat_2015_plus, DurCat_Short, RatingCategory_Good",VotesCat_High,0.07669862442684452,0.6328460877042132,1.4953930208346786
+"YearCat_2015_plus, RatingCategory_Good","DurCat_Short, VotesCat_High",0.07669862442684452,0.6317596566523606,1.4931935136049388
+"YearCat_2015_plus, RatingCategory_Good",VotesCat_High,0.07669862442684452,0.6317596566523606,1.4928258225156492
+Certificate_U,"DurCat_Short, VotesCat_High",0.08295122967903293,0.6292490118577074,1.4872594871395468
+Certificate_U,VotesCat_High,0.08295122967903293,0.6292490118577074,1.4868932572732234
+"Certificate_U, DurCat_Short",VotesCat_High,0.08295122967903293,0.6292490118577074,1.4868932572732234
+"Director_Other, Certificate_U","DurCat_Short, VotesCat_High",0.07617757398916215,0.6179205409974641,1.4604841161112476
+"Director_Other, Certificate_U, DurCat_Short",VotesCat_High,0.07617757398916215,0.6179205409974641,1.4601244795399322
+"Director_Other, Certificate_U",VotesCat_High,0.07617757398916215,0.6179205409974641,1.4601244795399322
+"YearCat_2000_2015, DurCat_Short, RatingCategory_Good",VotesCat_High,0.05606502709462276,0.6141552511415524,1.4512272321975712
+"YearCat_2000_2015, RatingCategory_Good","DurCat_Short, VotesCat_High",0.05606502709462276,0.612756264236902,1.4482781063096826
+"YearCat_2000_2015, RatingCategory_Good",VotesCat_High,0.05606502709462276,0.612756264236902,1.4479214754044105
+"Director_Other, YearCat_2015_plus, DurCat_Short, RatingCategory_Good",VotesCat_High,0.06971654856190079,0.6126373626373626,1.4476405151115812
+"YearCat_2015_plus, MetaCat_High","DurCat_Short, VotesCat_High",0.06169237182159233,0.6122026887280249,1.4469697046882084
+"DurCat_Short, RatingCategory_Good",VotesCat_High,0.18247186327636516,0.6122377622377623,1.4466962734384552
+"YearCat_2015_plus, DurCat_Short, MetaCat_High",VotesCat_High,0.06169237182159233,0.6122026887280249,1.4466133959699892
+"YearCat_2015_plus, MetaCat_High",VotesCat_High,0.06169237182159233,0.6122026887280249,1.4466133959699892
+"Director_Other, YearCat_2015_plus, RatingCategory_Good","DurCat_Short, VotesCat_High",0.06971654856190079,0.6115173674588665,1.4453499157968677
+"Director_Other, YearCat_2015_plus, RatingCategory_Good",VotesCat_High,0.06971654856190079,0.6115173674588665,1.4449940059431872
+RatingCategory_Good,VotesCat_High,0.18257607336390164,0.6106657371906588,1.4429816336078702
+RatingCategory_Good,"DurCat_Short, VotesCat_High",0.18247186327636516,0.610317183687696,1.4425132252874706
+"Genre_Action, RatingCategory_Average","DurCat_Short, VotesCat_High",0.08336807002917883,0.6015037593984963,1.4216822845290567
+"Genre_Action, RatingCategory_Average",VotesCat_High,0.08336807002917883,0.6015037593984963,1.4213322027057302
+"Genre_Action, RatingCategory_Average, DurCat_Short",VotesCat_High,0.08336807002917883,0.6015037593984963,1.4213322027057302
+"MetaCat_Low, VotesCat_High","Director_Other, RatingCategory_Average",0.07451021258857858,0.7273652085452696,1.3931729623154505
+"MetaCat_Low, DurCat_Short, VotesCat_High","Director_Other, RatingCategory_Average",0.07451021258857858,0.7273652085452696,1.3931729623154505
+"MetaCat_Low, VotesCat_High","Director_Other, RatingCategory_Average, DurCat_Short",0.07451021258857858,0.7273652085452696,1.3931729623154505
+"MetaCat_Low, DurCat_Short, VotesCat_High",RatingCategory_Average,0.07659441433930804,0.7477110885045778,1.3779595938716975
+"MetaCat_Low, VotesCat_High",RatingCategory_Average,0.07659441433930804,0.7477110885045778,1.3779595938716975
+"MetaCat_Low, VotesCat_High","RatingCategory_Average, DurCat_Short",0.07659441433930804,0.7477110885045778,1.3779595938716975
+"Director_Other, MetaCat_Low, VotesCat_High","RatingCategory_Average, DurCat_Short",0.07451021258857858,0.7471264367816093,1.376882136999486
+"Director_Other, MetaCat_Low, VotesCat_High",RatingCategory_Average,0.07451021258857858,0.7471264367816093,1.376882136999486
+"Director_Other, MetaCat_Low, DurCat_Short, VotesCat_High",RatingCategory_Average,0.07451021258857858,0.7471264367816093,1.376882136999486
+"Certificate_R, VotesCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.06169237182159233,0.6644219977553311,1.272613471149732
+"Certificate_R, VotesCat_Medium","Director_Other, RatingCategory_Average",0.06169237182159233,0.6644219977553311,1.272613471149732
+"Certificate_R, DurCat_Short, VotesCat_Medium","Director_Other, RatingCategory_Average",0.06169237182159233,0.6644219977553311,1.272613471149732
+"Genre_Comedy, VotesCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.06638182576073363,0.6635416666666666,1.2709273120425812
+"Genre_Comedy, VotesCat_Medium","Director_Other, RatingCategory_Average",0.06638182576073363,0.6635416666666666,1.2709273120425812
+"Genre_Comedy, DurCat_Short, VotesCat_Medium","Director_Other, RatingCategory_Average",0.06638182576073363,0.6635416666666666,1.2709273120425812
+"Certificate_R, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.0637765735723218,0.6868686868686869,1.2658329017076857
+"Certificate_R, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.0637765735723218,0.6868686868686869,1.2658329017076857
+"Certificate_R, VotesCat_Medium",RatingCategory_Average,0.0637765735723218,0.6868686868686869,1.2658329017076857
+"Director_Other, Certificate_R, VotesCat_Medium",RatingCategory_Average,0.06169237182159233,0.6851851851851852,1.2627303700858532
+"Director_Other, Certificate_R, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.06169237182159233,0.6851851851851852,1.2627303700858532
+"Director_Other, Certificate_R, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.06169237182159233,0.6851851851851852,1.2627303700858532
+"Genre_Action, MetaCat_Low","RatingCategory_Average, DurCat_Short",0.051271363067944976,0.6833333333333333,1.2593175853018375
+"Genre_Action, MetaCat_Low",RatingCategory_Average,0.051271363067944976,0.6833333333333333,1.2593175853018375
+"Genre_Action, DurCat_Short, MetaCat_Low",RatingCategory_Average,0.051271363067944976,0.6833333333333333,1.2593175853018375
+"Genre_Comedy, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.06825760733639016,0.6822916666666666,1.2573978938608283
+"Genre_Comedy, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.06825760733639016,0.6822916666666666,1.2573978938608283
+"Genre_Comedy, VotesCat_Medium",RatingCategory_Average,0.06825760733639016,0.6822916666666666,1.2573978938608283
+"YearCat_2015_plus, DurCat_Short, VotesCat_Medium, MetaCat_Medium","Director_Other, RatingCategory_Average",0.05283451438099208,0.6558861578266494,1.2562641857294465
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium","Director_Other, RatingCategory_Average",0.05283451438099208,0.6550387596899224,1.2546411053861268
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.05283451438099208,0.6550387596899224,1.2546411053861268
+"Director_Other, VotesCat_Medium, Genre_Comedy","RatingCategory_Average, DurCat_Short",0.06638182576073363,0.6805555555555556,1.2541984081258137
+"Director_Other, VotesCat_Medium, DurCat_Short, Genre_Comedy",RatingCategory_Average,0.06638182576073363,0.6805555555555556,1.2541984081258137
+"Director_Other, VotesCat_Medium, Genre_Comedy",RatingCategory_Average,0.06638182576073363,0.6805555555555556,1.2541984081258137
+"DurCat_Short, VotesCat_Medium, MetaCat_Medium","Director_Other, RatingCategory_Average",0.13859941642350979,0.6535626535626535,1.251813817083278
+"Genre_Comedy, MetaCat_Medium","Director_Other, RatingCategory_Average",0.07555231346394331,0.6525652565256526,1.2499034334571182
+"Genre_Comedy, DurCat_Short, MetaCat_Medium","Director_Other, RatingCategory_Average",0.07555231346394331,0.6525652565256526,1.2499034334571182
+"Genre_Comedy, MetaCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.07555231346394331,0.6525652565256526,1.2499034334571182
+"VotesCat_Medium, MetaCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.13859941642350979,0.6519607843137255,1.248745645962976
+"VotesCat_Medium, MetaCat_Medium","Director_Other, RatingCategory_Average",0.13859941642350979,0.6519607843137255,1.248745645962976
+"YearCat_2015_plus, DurCat_Short, VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.05450187578157566,0.6765847347994826,1.2468805675313683
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.05450187578157566,0.6757105943152455,1.2452696107257724
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.05450187578157566,0.6757105943152455,1.2452696107257724
+"DurCat_Short, VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.14297624010004167,0.6742014742014741,1.2424884475585454
+"VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.14297624010004167,0.6725490196078431,1.239443132736098
+"VotesCat_Medium, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.14297624010004167,0.6725490196078431,1.239443132736098
+"Director_Other, YearCat_2015_plus, MetaCat_Medium, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.05283451438099208,0.6724137931034483,1.2391939232995373
+"Director_Other, DurCat_Short, VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.13859941642350979,0.6717171717171717,1.2379101171111926
+"Director_Other, YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.05283451438099208,0.671523178807947,1.2375526068448357
+"Director_Other, YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.05283451438099208,0.671523178807947,1.2375526068448357
+"Genre_Comedy, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.07774072530220925,0.6714671467146714,1.2374493450881483
+"Genre_Comedy, MetaCat_Medium",RatingCategory_Average,0.07774072530220925,0.6714671467146714,1.2374493450881483
+"Genre_Comedy, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.07774072530220925,0.6714671467146714,1.2374493450881483
+"Director_Other, DurCat_Short, Genre_Comedy, MetaCat_Medium",RatingCategory_Average,0.07555231346394331,0.6700554528650647,1.23484772915175
+"Director_Other, Genre_Comedy, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.07555231346394331,0.6700554528650647,1.23484772915175
+"Director_Other, Genre_Comedy, MetaCat_Medium",RatingCategory_Average,0.07555231346394331,0.6700554528650647,1.23484772915175
+"Director_Other, VotesCat_Medium, MetaCat_Medium",RatingCategory_Average,0.13859941642350979,0.6700251889168766,1.2347919556071343
+"Director_Other, VotesCat_Medium, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.13859941642350979,0.6700251889168766,1.2347919556071343
+"MetaCat_Low, YearCat_2015_plus","Director_Other, RatingCategory_Average, DurCat_Short",0.05335556481867445,0.6328800988875155,1.2121990876097004
+"MetaCat_Low, YearCat_2015_plus, DurCat_Short","Director_Other, RatingCategory_Average",0.05335556481867445,0.6328800988875155,1.2121990876097004
+"MetaCat_Low, YearCat_2015_plus","Director_Other, RatingCategory_Average",0.05335556481867445,0.6328800988875155,1.2121990876097004
+"RatingCategory_Average, Genre_Drama","Director_Other, DurCat_Short, MetaCat_Medium",0.06356815339724885,0.6136820925553319,1.2092183491090278
+"RatingCategory_Average, Genre_Drama","Director_Other, MetaCat_Medium",0.06356815339724885,0.6136820925553319,1.2077303855949477
+"RatingCategory_Average, DurCat_Short, Genre_Drama","Director_Other, MetaCat_Medium",0.06356815339724885,0.6136820925553319,1.2077303855949477
+"Director_Other, VotesCat_High, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.10525218841183827,0.6549935149156939,1.2070900267199922
+"Director_Other, DurCat_Short, VotesCat_High, MetaCat_Medium",RatingCategory_Average,0.10525218841183827,0.6549935149156939,1.2070900267199922
+"Director_Other, MetaCat_Medium, VotesCat_High",RatingCategory_Average,0.10525218841183827,0.6549935149156939,1.2070900267199922
+MetaCat_Low,"Director_Other, RatingCategory_Average, DurCat_Short",0.14151729887453104,0.6289949050486335,1.2047575067558258
+MetaCat_Low,"Director_Other, RatingCategory_Average",0.14151729887453104,0.6289949050486335,1.2047575067558258
+"MetaCat_Low, DurCat_Short","Director_Other, RatingCategory_Average",0.14151729887453104,0.6289949050486335,1.2047575067558258
+"MetaCat_Medium, DurCat_Short, VotesCat_High",RatingCategory_Average,0.1133805752396832,0.651887357699221,1.2013656778340167
+"MetaCat_Medium, VotesCat_High",RatingCategory_Average,0.1133805752396832,0.651887357699221,1.2013656778340167
+"MetaCat_Medium, VotesCat_High","RatingCategory_Average, DurCat_Short",0.1133805752396832,0.651887357699221,1.2013656778340167
+"Director_Other, Genre_Action, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.07471863276365152,0.6518181818181819,1.2012381933411318
+"Director_Other, Genre_Action, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.07471863276365152,0.6518181818181819,1.2012381933411318
+"Director_Other, Genre_Action, MetaCat_Medium",RatingCategory_Average,0.07471863276365152,0.6518181818181819,1.2012381933411318
+"Director_Other, Genre_Action, DurCat_Short, VotesCat_High",RatingCategory_Average,0.07909545644018341,0.6515021459227468,1.2006557695937543
+"Director_Other, Genre_Action, VotesCat_High",RatingCategory_Average,0.07909545644018341,0.6509433962264152,1.1996260476644287
+"Director_Other, Genre_Action, VotesCat_High","RatingCategory_Average, DurCat_Short",0.07909545644018341,0.6509433962264152,1.1996260476644287
+"Director_Other, RatingCategory_Average, Genre_Drama","DurCat_Short, MetaCat_Medium",0.06356815339724885,0.6321243523316061,1.1990245671030029
+"RatingCategory_Average, Genre_Drama","DurCat_Short, MetaCat_Medium",0.06544393497290538,0.6317907444668007,1.1983917738492627
+"Director_Other, RatingCategory_Average, Genre_Drama",MetaCat_Medium,0.06356815339724885,0.6321243523316061,1.1976042023640854
+"Director_Other, RatingCategory_Average, DurCat_Short, Genre_Drama",MetaCat_Medium,0.06356815339724885,0.6321243523316061,1.1976042023640854
+"RatingCategory_Average, DurCat_Short, Genre_Drama",MetaCat_Medium,0.06544393497290538,0.6317907444668007,1.1969721587173583
+"RatingCategory_Average, Genre_Drama",MetaCat_Medium,0.06544393497290538,0.6317907444668007,1.1969721587173583
+"Genre_Action, MetaCat_Medium",RatingCategory_Average,0.0779491454772822,0.6476190476190475,1.193499593038675
+"Genre_Action, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.0779491454772822,0.6476190476190475,1.193499593038675
+"Genre_Action, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.0779491454772822,0.6476190476190475,1.193499593038675
+MetaCat_Low,RatingCategory_Average,0.1452688620258441,0.6456692913385826,1.1899063798127596
+"MetaCat_Low, DurCat_Short",RatingCategory_Average,0.1452688620258441,0.6456692913385826,1.1899063798127596
+MetaCat_Low,"RatingCategory_Average, DurCat_Short",0.1452688620258441,0.6456692913385826,1.1899063798127596
+"MetaCat_Low, YearCat_2015_plus, DurCat_Short",RatingCategory_Average,0.054397665694039185,0.6452410383189122,1.18911715070257
+"MetaCat_Low, YearCat_2015_plus","RatingCategory_Average, DurCat_Short",0.054397665694039185,0.6452410383189122,1.18911715070257
+"MetaCat_Low, YearCat_2015_plus",RatingCategory_Average,0.054397665694039185,0.6452410383189122,1.18911715070257
+"Genre_Action, DurCat_Short, MetaCat_Medium","Director_Other, RatingCategory_Average",0.07471863276365152,0.6207792207792208,1.189021437644192
+"Genre_Action, MetaCat_Medium","Director_Other, RatingCategory_Average",0.07471863276365152,0.6207792207792208,1.189021437644192
+"Genre_Action, MetaCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.07471863276365152,0.6207792207792208,1.189021437644192
+"Director_Other, MetaCat_Low, YearCat_2015_plus",RatingCategory_Average,0.05335556481867445,0.6448362720403022,1.1883712053963398
+"Director_Other, MetaCat_Low, YearCat_2015_plus","RatingCategory_Average, DurCat_Short",0.05335556481867445,0.6448362720403022,1.1883712053963398
+"Director_Other, MetaCat_Low, YearCat_2015_plus, DurCat_Short",RatingCategory_Average,0.05335556481867445,0.6448362720403022,1.1883712053963398
+"Director_Other, MetaCat_Low",RatingCategory_Average,0.14151729887453104,0.644212523719165,1.1872216972554461
+"Director_Other, MetaCat_Low, DurCat_Short",RatingCategory_Average,0.14151729887453104,0.644212523719165,1.1872216972554461
+"Director_Other, MetaCat_Low","RatingCategory_Average, DurCat_Short",0.14151729887453104,0.644212523719165,1.1872216972554461
+"Genre_Action, DurCat_Short, VotesCat_High",RatingCategory_Average,0.08336807002917883,0.64,1.1794584213558672
+"Genre_Action, VotesCat_High",RatingCategory_Average,0.08336807002917883,0.6394884092725819,1.178515608868772
+"Genre_Action, VotesCat_High","RatingCategory_Average, DurCat_Short",0.08336807002917883,0.6394884092725819,1.178515608868772
+"Certificate_R, DurCat_Short, MetaCat_Medium","Director_Other, RatingCategory_Average",0.055960817007086286,0.6144164759725401,1.1768344318228532
+"Certificate_R, MetaCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.055960817007086286,0.6144164759725401,1.1768344318228532
+"Certificate_R, MetaCat_Medium","Director_Other, RatingCategory_Average",0.055960817007086286,0.6144164759725401,1.1768344318228532
+"Certificate_R, MetaCat_Medium",RatingCategory_Average,0.05804501875781576,0.6372997711670481,1.1744821594236592
+"Certificate_R, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.05804501875781576,0.6372997711670481,1.1744821594236592
+"Certificate_R, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.05804501875781576,0.6372997711670481,1.1744821594236592
+"Director_Other, Certificate_R, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.055960817007086286,0.6355029585798817,1.171170806708766
+"Director_Other, Certificate_R, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.055960817007086286,0.6355029585798817,1.171170806708766
+"Director_Other, Certificate_R, MetaCat_Medium",RatingCategory_Average,0.055960817007086286,0.6355029585798817,1.171170806708766
+"Genre_Action, DurCat_Short, VotesCat_High","Director_Other, RatingCategory_Average",0.07909545644018341,0.6072,1.1630122155688623
+"Genre_Action, VotesCat_High","Director_Other, RatingCategory_Average, DurCat_Short",0.07909545644018341,0.6067146282973621,1.1620825495292388
+"Genre_Action, VotesCat_High","Director_Other, RatingCategory_Average",0.07909545644018341,0.6067146282973621,1.1620825495292388
+"VotesCat_High, MetaCat_Medium","Director_Other, RatingCategory_Average, DurCat_Short",0.10525218841183827,0.6051527860994608,1.1590910449921008
+"VotesCat_High, DurCat_Short, MetaCat_Medium","Director_Other, RatingCategory_Average",0.10525218841183827,0.6051527860994608,1.1590910449921008
+"MetaCat_Medium, VotesCat_High","Director_Other, RatingCategory_Average",0.10525218841183827,0.6051527860994608,1.1590910449921008
+"RatingCategory_Average, YearCat_Before_2000","DurCat_Short, MetaCat_Medium",0.0932680283451438,0.6076035302104548,1.1525130412926514
+"RatingCategory_Average, DurCat_Short, YearCat_Before_2000",MetaCat_Medium,0.0932680283451438,0.6076035302104548,1.1511477741163916
+"RatingCategory_Average, YearCat_Before_2000",MetaCat_Medium,0.0932680283451438,0.6076035302104548,1.1511477741163916
+"Director_Other, RatingCategory_Average, YearCat_Before_2000","DurCat_Short, MetaCat_Medium",0.08909962484368487,0.605095541401274,1.1477558440969806
+"Director_Other, RatingCategory_Average, DurCat_Short, YearCat_Before_2000",MetaCat_Medium,0.08909962484368487,0.605095541401274,1.146396212297458
+"Director_Other, RatingCategory_Average, YearCat_Before_2000",MetaCat_Medium,0.08909962484368487,0.605095541401274,1.146396212297458
+"YearCat_2000_2015, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.10368903709879117,0.621875,1.1460557902823123
+"YearCat_2000_2015, MetaCat_Medium",RatingCategory_Average,0.10368903709879117,0.6210986267166042,1.144625009021036
+"YearCat_2000_2015, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.10368903709879117,0.6210986267166042,1.144625009021036
+"Director_Other, YearCat_2000_2015, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.0996248436848687,0.6207792207792208,1.1440363746106017
+"Director_Other, YearCat_2000_2015, MetaCat_Medium",RatingCategory_Average,0.0996248436848687,0.6199740596627755,1.1425525401428835
+"Director_Other, YearCat_2000_2015, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.0996248436848687,0.6199740596627755,1.1425525401428835
+"YearCat_2000_2015, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.08013755731554814,0.6147082334132693,1.1328481290251071
+"Director_Other, Genre_Action, YearCat_2015_plus, DurCat_Short",RatingCategory_Average,0.054085035431429763,0.6142011834319527,1.131913684696182
+"Director_Other, Genre_Action, YearCat_2015_plus","RatingCategory_Average, DurCat_Short",0.054085035431429763,0.6142011834319527,1.131913684696182
+"Director_Other, Genre_Action, YearCat_2015_plus",RatingCategory_Average,0.054085035431429763,0.6142011834319527,1.131913684696182
+"YearCat_2000_2015, VotesCat_Medium",RatingCategory_Average,0.08013755731554814,0.6137270550678371,1.1310399117401508
+"YearCat_2000_2015, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.08013755731554814,0.6137270550678371,1.1310399117401508
+"YearCat_2015_plus, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.12567736556898707,0.6134282807731434,1.1304892994620865
+"YearCat_2015_plus, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.09264276781992496,0.613103448275862,1.1298906644238857
+"Director_Other, YearCat_2000_2015, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.07774072530220925,0.6129827444535744,1.1296682188931246
+"YearCat_2015_plus, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.12567736556898707,0.6128048780487805,1.129340428222796
+"YearCat_2015_plus, MetaCat_Medium",RatingCategory_Average,0.12567736556898707,0.6128048780487805,1.129340428222796
+"YearCat_2015_plus, VotesCat_Medium",RatingCategory_Average,0.09264276781992496,0.6126809097174362,1.1291119665159435
+"YearCat_2015_plus, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.09264276781992496,0.6126809097174362,1.1291119665159435
+"Director_Other, YearCat_2015_plus, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.12109212171738225,0.6125461254612546,1.128863572100288
+"Director_Other, Genre_Comedy","RatingCategory_Average, DurCat_Short",0.13390996248436848,0.6124880838894186,1.1287566070679587
+"Director_Other, Genre_Comedy",RatingCategory_Average,0.13390996248436848,0.6124880838894186,1.1287566070679587
+"Director_Other, DurCat_Short, Genre_Comedy",RatingCategory_Average,0.13390996248436848,0.6124880838894186,1.1287566070679587
+Genre_Comedy,"RatingCategory_Average, DurCat_Short",0.13766152563568154,0.6124246638850255,1.1286397301019215
+"Genre_Comedy, DurCat_Short",RatingCategory_Average,0.13766152563568154,0.6124246638850255,1.1286397301019215
+Genre_Comedy,RatingCategory_Average,0.13766152563568154,0.6124246638850255,1.1286397301019215
+"DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.32263443101292205,0.6119786519074916,1.1278177729410965
+"Director_Other, YearCat_2000_2015, VotesCat_Medium",RatingCategory_Average,0.07774072530220925,0.6119770303527482,1.127814784571725
+"Director_Other, YearCat_2000_2015, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.07774072530220925,0.6119770303527482,1.127814784571725
+"Director_Other, YearCat_2015_plus, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.12109212171738225,0.611901000526593,1.1276746689174548
+"Director_Other, YearCat_2015_plus, MetaCat_Medium",RatingCategory_Average,0.12109212171738225,0.611901000526593,1.1276746689174548
+MetaCat_Medium,RatingCategory_Average,0.32263443101292205,0.611253701875617,1.1264817597846017
+MetaCat_Medium,"RatingCategory_Average, DurCat_Short",0.32263443101292205,0.611253701875617,1.1264817597846017
+"Director_Other, DurCat_Short, MetaCat_Medium",RatingCategory_Average,0.30981659024593583,0.6104722792607804,1.1250416730913095
+"Director_Other, MetaCat_Medium","RatingCategory_Average, DurCat_Short",0.30981659024593583,0.6097210828547991,1.1236572903926738
+"Director_Other, MetaCat_Medium",RatingCategory_Average,0.30981659024593583,0.6097210828547991,1.1236572903926738
+"Genre_Action, YearCat_2015_plus, DurCat_Short",RatingCategory_Average,0.056169237182159236,0.6090395480225989,1.1224012872719145
+"Genre_Action, YearCat_2015_plus","RatingCategory_Average, DurCat_Short",0.056169237182159236,0.6090395480225989,1.1224012872719145
+"Genre_Action, YearCat_2015_plus",RatingCategory_Average,0.056169237182159236,0.6090395480225989,1.1224012872719145
+"Director_Other, Genre_Action, DurCat_Short",RatingCategory_Average,0.13318049187161318,0.6085714285714285,1.1215385881642843
+"Director_Other, Genre_Action",RatingCategory_Average,0.13318049187161318,0.6082817705854355,1.121004776366015
+"Director_Other, Genre_Action","RatingCategory_Average, DurCat_Short",0.13318049187161318,0.6082817705854355,1.121004776366015
+"Director_Other, YearCat_2015_plus, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.08941225510629429,0.6080793763288448,1.1206317832248118
+"Director_Other, YearCat_2015_plus, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.08941225510629429,0.6076487252124646,1.1198381346531228
+"Director_Other, YearCat_2015_plus, VotesCat_Medium",RatingCategory_Average,0.08941225510629429,0.6076487252124646,1.1198381346531228
+"DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.24510212588578575,0.6052496139989707,1.115416803521053
+VotesCat_Medium,RatingCategory_Average,0.24510212588578575,0.6041613151810943,1.113411173512153
+VotesCat_Medium,"RatingCategory_Average, DurCat_Short",0.24510212588578575,0.6041613151810943,1.113411173512153
+"Genre_Action, DurCat_Short",RatingCategory_Average,0.13859941642350979,0.603448275862069,1.1120971106534308
+Genre_Action,RatingCategory_Average,0.13859941642350979,0.6031746031746031,1.1115927582222953
+Genre_Action,"RatingCategory_Average, DurCat_Short",0.13859941642350979,0.6031746031746031,1.1115927582222953
+"Director_Other, DurCat_Short, VotesCat_Medium",RatingCategory_Average,0.23728636932055022,0.6030190677966102,1.1113061214857445
+"Director_Other, VotesCat_Medium","RatingCategory_Average, DurCat_Short",0.23728636932055022,0.6019032513877874,1.1092497792043803
+"Director_Other, VotesCat_Medium",RatingCategory_Average,0.23728636932055022,0.6019032513877874,1.1092497792043803
+Certificate_R,"RatingCategory_Average, DurCat_Short",0.10483534806169237,0.6005970149253731,1.106842511085823
+Certificate_R,RatingCategory_Average,0.10483534806169237,0.6005970149253731,1.106842511085823
+"Certificate_R, DurCat_Short",RatingCategory_Average,0.10483534806169237,0.6005970149253731,1.106842511085823
+"VotesCat_Low, RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.06596498541058775,0.9952830188679246,1.0424291474630654
+"VotesCat_Low, YearCat_2015_plus",Director_Other,0.0664860358482701,0.9953198127925116,1.0414446541878684
+"VotesCat_Low, YearCat_2015_plus, DurCat_Short",Director_Other,0.06638182576073363,0.9953124999999999,1.0414370025079054
+"VotesCat_Low, RatingCategory_Average, MetaCat_Medium",Director_Other,0.06596498541058775,0.9952830188679246,1.041406155169186
+"VotesCat_Low, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.06596498541058775,0.9952830188679246,1.041406155169186
+"VotesCat_Low, Genre_Drama","Director_Other, DurCat_Short",0.05304293455606503,0.994140625,1.0412326388888888
+"VotesCat_Low, YearCat_2000_2015","Director_Other, DurCat_Short",0.052938724468528556,0.9941291585127201,1.0412206292390376
+"VotesCat_Low, MetaCat_Medium","Director_Other, DurCat_Short",0.14047519799916633,0.9941002949852509,1.0411903984586846
+VotesCat_Low,"Director_Other, DurCat_Short",0.1700708628595248,0.9939098660170523,1.040990948952154
+"VotesCat_Low, YearCat_Before_2000","Director_Other, DurCat_Short",0.05075031263026261,0.9938775510204081,1.0409571032080154
+"VotesCat_Low, MetaCat_Medium",Director_Other,0.1405794080867028,0.9948377581120945,1.0409402602599127
+"VotesCat_Low, DurCat_Short, MetaCat_Medium",Director_Other,0.14047519799916633,0.9948339483394835,1.0409362739358503
+"VotesCat_Low, YearCat_2015_plus","Director_Other, DurCat_Short",0.06638182576073363,0.9937597503900155,1.0408337224124198
+"VotesCat_Low, RatingCategory_Bad","Director_Other, DurCat_Short",0.0653397248853689,0.9936608557844692,1.040730143211937
+VotesCat_Low,Director_Other,0.17017507294706127,0.9945188794153471,1.0406066041729005
+"VotesCat_Low, DurCat_Short",Director_Other,0.1700708628595248,0.9945155393053016,1.0406031092763792
+"VotesCat_Low, RatingCategory_Average","Director_Other, DurCat_Short",0.08003334722801167,0.9935316946959896,1.04059486381824
+"VotesCat_Low, YearCat_2015_plus, MetaCat_Medium",Director_Other,0.053876615256356813,0.9942307692307693,1.0403051424641219
+"VotesCat_Low, YearCat_2015_plus, DurCat_Short, MetaCat_Medium",Director_Other,0.05377240516882034,0.9942196531791907,1.0402935112754894
+"VotesCat_Low, DurCat_Short, Genre_Drama",Director_Other,0.05304293455606503,0.994140625,1.0402108207938066
+"VotesCat_Low, Genre_Drama",Director_Other,0.05304293455606503,0.994140625,1.0402108207938066
+"VotesCat_Low, YearCat_2000_2015, DurCat_Short",Director_Other,0.052938724468528556,0.9941291585127201,1.0401988229296764
+"VotesCat_Low, YearCat_2000_2015",Director_Other,0.052938724468528556,0.9941291585127201,1.0401988229296764
+"VotesCat_Low, YearCat_Before_2000",Director_Other,0.05075031263026261,0.9938775510204081,1.0399355555110497
+"VotesCat_Low, DurCat_Short, YearCat_Before_2000",Director_Other,0.05075031263026261,0.9938775510204081,1.0399355555110497
+"VotesCat_Low, RatingCategory_Bad, MetaCat_Medium","Director_Other, DurCat_Short",0.05679449770737807,0.9927140255009108,1.0397384619850185
+"VotesCat_Low, RatingCategory_Bad",Director_Other,0.0653397248853689,0.9936608557844692,1.0397088182431322
+"VotesCat_Low, DurCat_Short, RatingCategory_Bad",Director_Other,0.0653397248853689,0.9936608557844692,1.0397088182431322
+"VotesCat_Low, RatingCategory_Average, DurCat_Short",Director_Other,0.08003334722801167,0.9935316946959896,1.039573671606446
+"VotesCat_Low, RatingCategory_Average",Director_Other,0.08003334722801167,0.9935316946959896,1.039573671606446
+"VotesCat_Low, YearCat_2015_plus, MetaCat_Medium","Director_Other, DurCat_Short",0.05377240516882034,0.9923076923076923,1.0393128809631758
+"VotesCat_Low, DurCat_Short, RatingCategory_Bad, MetaCat_Medium",Director_Other,0.05679449770737807,0.9927140255009108,1.0387181102068195
+"VotesCat_Low, RatingCategory_Bad, MetaCat_Medium",Director_Other,0.05679449770737807,0.9927140255009108,1.0387181102068195
+"YearCat_2000_2015, RatingCategory_Bad","Director_Other, DurCat_Short",0.05085452271779908,0.9898580121703855,1.036747160531218
+"YearCat_2000_2015, DurCat_Short, RatingCategory_Bad",Director_Other,0.05085452271779908,0.9898580121703855,1.03572974427947
+"YearCat_2000_2015, RatingCategory_Bad",Director_Other,0.05085452271779908,0.9898580121703855,1.03572974427947
+"Genre_Comedy, MetaCat_Low","Director_Other, DurCat_Short",0.05939974989578991,0.9844559585492227,1.0310892139531043
+"RatingCategory_Bad, MetaCat_Medium","Director_Other, DurCat_Short",0.08409754064193414,0.9841463414634146,1.0307649304390882
+RatingCategory_Bad,"Director_Other, DurCat_Short",0.15579408086702792,0.9835526315789473,1.030143096772711
+"Genre_Comedy, MetaCat_Low",Director_Other,0.05939974989578991,0.9844559585492227,1.030077350151384
+"Genre_Comedy, MetaCat_Low, DurCat_Short",Director_Other,0.05939974989578991,0.9844559585492227,1.030077350151384
+"DurCat_Short, RatingCategory_Bad, MetaCat_Medium",Director_Other,0.08409754064193414,0.9841463414634146,1.0297533848743787
+"RatingCategory_Bad, MetaCat_Medium",Director_Other,0.08409754064193414,0.9841463414634146,1.0297533848743787
+"MetaCat_Low, RatingCategory_Bad","Director_Other, DurCat_Short",0.07075864943726552,0.9826338639652676,1.0291808075322755
+RatingCategory_Bad,Director_Other,0.15579408086702792,0.9835526315789473,1.0291321614471245
+"DurCat_Short, RatingCategory_Bad",Director_Other,0.15579408086702792,0.9835526315789473,1.0291321614471245
+"YearCat_2015_plus, RatingCategory_Bad","Director_Other, DurCat_Short",0.05700291788245102,0.9820466786355475,1.028565807485998
+"MetaCat_Low, RatingCategory_Bad",Director_Other,0.07075864943726552,0.9826338639652676,1.028170816553343
+"MetaCat_Low, DurCat_Short, RatingCategory_Bad",Director_Other,0.07075864943726552,0.9826338639652676,1.028170816553343
+"MetaCat_Low, YearCat_2015_plus","Director_Other, DurCat_Short",0.08274280950395999,0.9814585908529049,1.0279498622379912
+"YearCat_2015_plus, RatingCategory_Bad",Director_Other,0.05700291788245102,0.9820466786355475,1.0275564200399863
+"YearCat_2015_plus, DurCat_Short, RatingCategory_Bad",Director_Other,0.05700291788245102,0.9820466786355475,1.0275564200399863
+"YearCat_2015_plus, MetaCat_Low, RatingCategory_Average","Director_Other, DurCat_Short",0.05335556481867445,0.9808429118773946,1.027305018814176
+"MetaCat_Low, YearCat_2015_plus, DurCat_Short",Director_Other,0.08274280950395999,0.9814585908529049,1.026941079252478
+"MetaCat_Low, YearCat_2015_plus",Director_Other,0.08274280950395999,0.9814585908529049,1.026941079252478
+"MetaCat_Low, YearCat_2015_plus, RatingCategory_Average",Director_Other,0.05335556481867445,0.9808429118773946,1.0262968686485092
+"YearCat_2015_plus, MetaCat_Low, RatingCategory_Average, DurCat_Short",Director_Other,0.05335556481867445,0.9808429118773946,1.0262968686485092
+"VotesCat_Medium, RatingCategory_Bad","Director_Other, DurCat_Short",0.06752813672363485,0.9788519637462235,1.0252197603262128
+"Genre_Comedy, YearCat_2015_plus","Director_Other, DurCat_Short",0.08097123801583993,0.9785894206549117,1.0249447806815688
+"VotesCat_Medium, RatingCategory_Bad",Director_Other,0.06752813672363485,0.9788519637462235,1.0242136565378652
+"VotesCat_Medium, DurCat_Short, RatingCategory_Bad",Director_Other,0.06752813672363485,0.9788519637462235,1.0242136565378652
+"Genre_Comedy, YearCat_2015_plus, DurCat_Short",Director_Other,0.08097123801583993,0.9785894206549117,1.0239389467456692
+"Genre_Comedy, YearCat_2015_plus",Director_Other,0.08097123801583993,0.9785894206549117,1.0239389467456692
+MetaCat_Low,"Director_Other, DurCat_Short",0.2196748645268862,0.9763779527559054,1.0226285564992
+"MetaCat_Low, VotesCat_Medium","Director_Other, DurCat_Short",0.10619007919966653,0.9760536398467432,1.0222888810269972
+"Genre_Drama, MetaCat_Medium",Director_Other,0.11327636515214673,0.976639712488769,1.0218988857313518
+"DurCat_Short, Genre_Drama, MetaCat_Medium",Director_Other,0.11306794497707379,0.9765976597659767,1.021854884212661
+Certificate_PG-13,"Director_Other, DurCat_Short",0.06669445602334306,0.9756097560975611,1.0218239706955028
+"MetaCat_Low, YearCat_2000_2015","Director_Other, DurCat_Short",0.07503126302626094,0.975609756097561,1.0218239706955026
+MetaCat_Low,Director_Other,0.2196748645268862,0.9763779527559054,1.0216249955997894
+"MetaCat_Low, DurCat_Short",Director_Other,0.2196748645268862,0.9763779527559054,1.0216249955997894
+"VotesCat_Medium, RatingCategory_Good",Director_Other,0.08941225510629429,0.9761092150170648,1.0213438040893854
+"MetaCat_Low, VotesCat_Medium",Director_Other,0.10619007919966653,0.9760536398467432,1.0212856534695616
+"MetaCat_Low, DurCat_Short, VotesCat_Medium",Director_Other,0.10619007919966653,0.9760536398467432,1.0212856534695616
+"Genre_Comedy, VotesCat_Medium","Director_Other, DurCat_Short",0.09754064193413922,0.975,1.021185330713818
+"VotesCat_Medium, DurCat_Short, RatingCategory_Good",Director_Other,0.08868278449353897,0.9759174311926605,1.0211431326708942
+"Genre_Drama, MetaCat_Medium","Director_Other, DurCat_Short",0.11306794497707379,0.9748427672955975,1.021020649963824
+"Certificate_PG-13, DurCat_Short",Director_Other,0.06669445602334306,0.9756097560975611,1.0208211993798055
+Certificate_PG-13,Director_Other,0.06669445602334306,0.9756097560975611,1.0208211993798055
+"MetaCat_Low, YearCat_2000_2015, DurCat_Short",Director_Other,0.07503126302626094,0.975609756097561,1.0208211993798053
+"MetaCat_Low, YearCat_2000_2015",Director_Other,0.07503126302626094,0.975609756097561,1.0208211993798053
+"Genre_Action, VotesCat_Medium","Director_Other, DurCat_Short",0.07211338057523968,0.9746478873239436,1.0208165386117183
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium",Director_Other,0.07867861609003751,0.9754521963824289,1.020656338074996
+"YearCat_2015_plus, DurCat_Short, VotesCat_Medium, MetaCat_Medium",Director_Other,0.07857440600250104,0.9754204398447607,1.0206231098844536
+"YearCat_2000_2015, VotesCat_Medium, MetaCat_Medium",Director_Other,0.06544393497290538,0.9751552795031057,1.0203456615540074
+"MetaCat_Low, RatingCategory_Average","Director_Other, DurCat_Short",0.14151729887453104,0.9741750358680057,1.0203212883856563
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium","Director_Other, DurCat_Short",0.07857440600250104,0.9741602067183462,1.0203057567855545
+"YearCat_2000_2015, DurCat_Short, VotesCat_Medium, MetaCat_Medium",Director_Other,0.06523551479783243,0.9750778816199378,1.0202646769190844
+"Genre_Comedy, VotesCat_Medium",Director_Other,0.09754064193413922,0.975,1.020183186130193
+"Genre_Comedy, DurCat_Short, VotesCat_Medium",Director_Other,0.09754064193413922,0.975,1.020183186130193
+"Genre_Comedy, MetaCat_Medium","Director_Other, DurCat_Short",0.11275531471446436,0.9738973897389739,1.0200304902788904
+"Genre_Action, VotesCat_Medium",Director_Other,0.07211338057523968,0.9746478873239436,1.0198147559437971
+"Genre_Action, DurCat_Short, VotesCat_Medium",Director_Other,0.07211338057523968,0.9746478873239436,1.0198147559437971
+"MetaCat_Low, RatingCategory_Average, VotesCat_Medium","Director_Other, DurCat_Short",0.06148395164651938,0.9735973597359735,1.0197162479836719
+"MetaCat_Low, VotesCat_High","Director_Other, DurCat_Short",0.09972905377240517,0.9735503560528993,1.0196670177563438
+"MetaCat_Low, RatingCategory_Average, DurCat_Short",Director_Other,0.14151729887453104,0.9741750358680057,1.0193199917336586
+"MetaCat_Low, RatingCategory_Average",Director_Other,0.14151729887453104,0.9741750358680057,1.0193199917336586
+"Genre_Comedy, DurCat_Short, MetaCat_Medium",Director_Other,0.11275531471446436,0.9738973897389739,1.0190294790028562
+"Genre_Comedy, MetaCat_Medium",Director_Other,0.11275531471446436,0.9738973897389739,1.0190294790028562
+"MetaCat_Low, RatingCategory_Average, VotesCat_High","Director_Other, DurCat_Short",0.07451021258857858,0.9727891156462587,1.0188697177190023
+"Genre_Comedy, RatingCategory_Average","Director_Other, DurCat_Short",0.13390996248436848,0.9727479182437546,1.018826568813258
+Genre_Comedy,"Director_Other, DurCat_Short",0.21863276365152146,0.9726471951784885,1.0187210745397048
+"MetaCat_Low, RatingCategory_Average, VotesCat_Medium",Director_Other,0.06148395164651938,0.9735973597359735,1.0187155450906555
+"MetaCat_Low, RatingCategory_Average, DurCat_Short, VotesCat_Medium",Director_Other,0.06148395164651938,0.9735973597359735,1.0187155450906555
+"MetaCat_Low, VotesCat_High",Director_Other,0.09972905377240517,0.9735503560528993,1.0186663631756212
+"MetaCat_Low, DurCat_Short, VotesCat_High",Director_Other,0.09972905377240517,0.9735503560528993,1.0186663631756212
+"Genre_Comedy, RatingCategory_Average, VotesCat_Medium","Director_Other, DurCat_Short",0.06638182576073363,0.9725190839694655,1.018586894757803
+"YearCat_2015_plus, VotesCat_Medium","Director_Other, DurCat_Short",0.14704043351396415,0.972432804962095,1.0184965287509566
+"YearCat_2015_plus, VotesCat_Medium",Director_Other,0.14714464360150062,0.9731219848380427,1.0182181404978583
+"YearCat_2015_plus, DurCat_Short, VotesCat_Medium",Director_Other,0.14704043351396415,0.973103448275862,1.0181987449193297
+"VotesCat_Medium, MetaCat_Medium",Director_Other,0.20685702375989995,0.9730392156862745,1.018131535680459
+"YearCat_2000_2015, VotesCat_Medium, MetaCat_Medium","Director_Other, DurCat_Short",0.06523551479783243,0.9720496894409939,1.0180952652123747
+"DurCat_Short, VotesCat_Medium, MetaCat_Medium",Director_Other,0.2063359733222176,0.9729729729729729,1.0180622231652654
+"YearCat_2000_2015, VotesCat_Medium",Director_Other,0.12703209670696122,0.9728651237031124,1.0179493759737288
+"YearCat_2000_2015, DurCat_Short, VotesCat_Medium",Director_Other,0.12682367653188828,0.9728217426059151,1.0179039845214657
+"Genre_Comedy, RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.07555231346394331,0.9718498659517426,1.0178859761703691
+"MetaCat_Low, RatingCategory_Average, VotesCat_High",Director_Other,0.07451021258857858,0.9727891156462587,1.017869845572075
+"MetaCat_Low, RatingCategory_Average, DurCat_Short, VotesCat_High",Director_Other,0.07451021258857858,0.9727891156462587,1.017869845572075
+"Genre_Comedy, YearCat_Before_2000","Director_Other, DurCat_Short",0.06471446436015006,0.9718309859154929,1.0178662017949214
+"Genre_Comedy, RatingCategory_Average",Director_Other,0.13390996248436848,0.9727479182437546,1.0178267390106934
+"Genre_Comedy, RatingCategory_Average, DurCat_Short",Director_Other,0.13390996248436848,0.9727479182437546,1.0178267390106934
+"Certificate_R, YearCat_2015_plus","Director_Other, DurCat_Short",0.06450604418507712,0.9717425431711147,1.0177735695557757
+"Genre_Drama, VotesCat_Medium",Director_Other,0.09274697790746145,0.9726775956284154,1.017753157523746
+Genre_Comedy,Director_Other,0.21863276365152146,0.9726471951784885,1.017721348264396
+"Genre_Comedy, DurCat_Short",Director_Other,0.21863276365152146,0.9726471951784885,1.017721348264396
+"DurCat_Short, Genre_Drama, VotesCat_Medium",Director_Other,0.09243434764485202,0.9725877192982455,1.0176591161690072
+"Genre_Comedy, RatingCategory_Average, VotesCat_Medium",Director_Other,0.06638182576073363,0.9725190839694655,1.017587300160396
+"Genre_Comedy, RatingCategory_Average, DurCat_Short, VotesCat_Medium",Director_Other,0.06638182576073363,0.9725190839694655,1.017587300160396
+"RatingCategory_Average, Genre_Drama, MetaCat_Medium","Director_Other, DurCat_Short",0.06356815339724885,0.9713375796178343,1.0173494230531257
+"YearCat_2000_2015, VotesCat_Medium","Director_Other, DurCat_Short",0.12682367653188828,0.9712689545091779,1.0172775472025837
+"Genre_Comedy, RatingCategory_Average, MetaCat_Medium",Director_Other,0.07555231346394331,0.9718498659517426,1.0168870694224101
+"Genre_Comedy, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.07555231346394331,0.9718498659517426,1.0168870694224101
+"Genre_Comedy, DurCat_Short, YearCat_Before_2000",Director_Other,0.06471446436015006,0.9718309859154929,1.0168673144526301
+"Genre_Comedy, YearCat_Before_2000",Director_Other,0.06471446436015006,0.9718309859154929,1.0168673144526301
+"RatingCategory_Average, Genre_Drama","Director_Other, DurCat_Short",0.10056273447269695,0.970824949698189,1.0168125100746368
+"YearCat_2015_plus, Genre_Drama","Director_Other, DurCat_Short",0.08315964985410587,0.9708029197080291,1.0167894365333168
+VotesCat_Medium,Director_Other,0.3942267611504794,0.9717441561777549,1.016776460874685
+"Certificate_R, YearCat_2015_plus",Director_Other,0.06450604418507712,0.9717425431711147,1.0167747731185277
+"Certificate_R, YearCat_2015_plus, DurCat_Short",Director_Other,0.06450604418507712,0.9717425431711147,1.0167747731185277
+"DurCat_Short, VotesCat_Medium",Director_Other,0.39349729053772403,0.9716932578486875,1.016723203829027
+"VotesCat_Medium, MetaCat_Medium","Director_Other, DurCat_Short",0.2063359733222176,0.9705882352941176,1.0165645826110405
+"Certificate_R, YearCat_2000_2015","Director_Other, DurCat_Short",0.05502292621925802,0.9705882352941176,1.0165645826110405
+"MetaCat_Low, YearCat_Before_2000","Director_Other, DurCat_Short",0.061900791996665275,0.9705882352941175,1.0165645826110403
+"RatingCategory_Average, DurCat_Short, Genre_Drama, MetaCat_Medium",Director_Other,0.06356815339724885,0.9713375796178343,1.0163510428538587
+"RatingCategory_Average, Genre_Drama, MetaCat_Medium",Director_Other,0.06356815339724885,0.9713375796178343,1.0163510428538587
+"RatingCategory_Average, YearCat_2000_2015, VotesCat_Medium","Director_Other, DurCat_Short",0.07774072530220925,0.9700910273081925,1.01604382209664
+VotesCat_Medium,"Director_Other, DurCat_Short",0.39349729053772403,0.9699460570254301,1.0158919846339258
+"RatingCategory_Average, Genre_Drama",Director_Other,0.10056273447269695,0.970824949698189,1.0158146567772133
+"RatingCategory_Average, DurCat_Short, Genre_Drama",Director_Other,0.10056273447269695,0.970824949698189,1.0158146567772133
+"YearCat_2015_plus, DurCat_Short, Genre_Drama",Director_Other,0.08315964985410587,0.9708029197080291,1.0157916058792114
+"YearCat_2015_plus, Genre_Drama",Director_Other,0.08315964985410587,0.9708029197080291,1.0157916058792114
+"RatingCategory_Average, VotesCat_Medium, YearCat_Before_2000","Director_Other, DurCat_Short",0.07013338891204669,0.9697406340057637,1.0156768308141573
+"Certificate_R, VotesCat_Medium","Director_Other, DurCat_Short",0.09003751563151313,0.9696969696969697,1.015631098145833
+"MetaCat_Low, YearCat_Before_2000",Director_Other,0.061900791996665275,0.9705882352941175,1.0155669726182917
+"MetaCat_Low, DurCat_Short, YearCat_Before_2000",Director_Other,0.061900791996665275,0.9705882352941175,1.0155669726182917
+"Certificate_R, YearCat_2000_2015",Director_Other,0.05502292621925802,0.9705882352941176,1.0155669726182917
+"Certificate_R, YearCat_2000_2015, DurCat_Short",Director_Other,0.05502292621925802,0.9705882352941176,1.0155669726182917
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_Medium, MetaCat_Medium","Director_Other, DurCat_Short",0.05283451438099208,0.9694072657743785,1.0153276710730121
+"Genre_Drama, VotesCat_Medium","Director_Other, DurCat_Short",0.09243434764485202,0.9693989071038251,1.0153189164558292
+"RatingCategory_Average, VotesCat_Medium, MetaCat_Medium","Director_Other, DurCat_Short",0.13859941642350979,0.9693877551020408,1.015307236188516
+"RatingCategory_Average, DurCat_Short, YearCat_2000_2015, VotesCat_Medium",Director_Other,0.07774072530220925,0.9700910273081925,1.015046723154445
+"RatingCategory_Average, YearCat_2000_2015, VotesCat_Medium",Director_Other,0.07774072530220925,0.9700910273081925,1.015046723154445
+"RatingCategory_Average, DurCat_Short, VotesCat_Medium, YearCat_Before_2000",Director_Other,0.07013338891204669,0.9697406340057637,1.014680092020424
+"RatingCategory_Average, VotesCat_Medium, YearCat_Before_2000",Director_Other,0.07013338891204669,0.9697406340057637,1.014680092020424
+"Certificate_R, VotesCat_Medium",Director_Other,0.09003751563151313,0.9696969696969697,1.014634404232049
+"Certificate_R, DurCat_Short, VotesCat_Medium",Director_Other,0.09003751563151313,0.9696969696969697,1.014634404232049
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_Medium, MetaCat_Medium",Director_Other,0.05283451438099208,0.9694072657743785,1.0143312749286812
+"RatingCategory_Average, YearCat_2015_plus, MetaCat_Medium, DurCat_Short, VotesCat_Medium",Director_Other,0.05283451438099208,0.9694072657743785,1.0143312749286812
+"RatingCategory_Average, VotesCat_Medium, MetaCat_Medium",Director_Other,0.13859941642350979,0.9693877551020408,1.0143108600980464
+"RatingCategory_Average, DurCat_Short, VotesCat_Medium, MetaCat_Medium",Director_Other,0.13859941642350979,0.9693877551020408,1.0143108600980464
+Certificate_R,"Director_Other, DurCat_Short",0.16902876198416006,0.9683582089552238,1.0142289208834674
+"VotesCat_Medium, RatingCategory_Good","Director_Other, DurCat_Short",0.08868278449353897,0.9681456200227532,1.0140062617046868
+"RatingCategory_Average, VotesCat_Medium","Director_Other, DurCat_Short",0.23728636932055022,0.9681122448979591,1.0139713056145836
+"Genre_Action, MetaCat_Low","Director_Other, DurCat_Short",0.07263443101292205,0.9680555555555556,1.013911930922409
+"VotesCat_Medium, YearCat_Before_2000",Director_Other,0.1200500208420175,0.9688814129520605,1.013781053177186
+"DurCat_Short, VotesCat_Medium, YearCat_Before_2000",Director_Other,0.11963318049187162,0.9687763713080169,1.013671143721702
+Certificate_R,Director_Other,0.16902876198416006,0.9683582089552238,1.0132336030023257
+"Certificate_R, DurCat_Short",Director_Other,0.16902876198416006,0.9683582089552238,1.0132336030023257
+"Certificate_R, RatingCategory_Average, VotesCat_Medium","Director_Other, DurCat_Short",0.06169237182159233,0.9673202614379085,1.0131418062386128
+"RatingCategory_Average, DurCat_Short, VotesCat_Medium",Director_Other,0.23728636932055022,0.9681122448979591,1.0129762405452858
+"RatingCategory_Average, VotesCat_Medium",Director_Other,0.23728636932055022,0.9681122448979591,1.0129762405452858
+"Genre_Action, DurCat_Short, MetaCat_Low",Director_Other,0.07263443101292205,0.9680555555555556,1.0129169241207188
+"Genre_Action, MetaCat_Low",Director_Other,0.07263443101292205,0.9680555555555556,1.0129169241207188
+"MetaCat_Medium, VotesCat_Medium, YearCat_Before_2000",Director_Other,0.06273447269695706,0.9678456591639871,1.0126973007673776
+"Genre_Comedy, YearCat_2000_2015","Director_Other, DurCat_Short",0.07294706127553147,0.9668508287292816,1.0126501367044518
+"Certificate_R, MetaCat_Medium","Director_Other, DurCat_Short",0.08805752396832013,0.9668192219679634,1.012617032744442
+"YearCat_Before_2000, DurCat_Short, VotesCat_Medium, MetaCat_Medium",Director_Other,0.06252605252188412,0.9677419354838709,1.012588770352549
+"Certificate_R, RatingCategory_Average, VotesCat_Medium",Director_Other,0.06169237182159233,0.9673202614379085,1.0121475552020684
+"Certificate_R, RatingCategory_Average, DurCat_Short, VotesCat_Medium",Director_Other,0.06169237182159233,0.9673202614379085,1.0121475552020684
+"Genre_Comedy, YearCat_2000_2015",Director_Other,0.07294706127553147,0.9668508287292816,1.0116563681699038
+"Genre_Comedy, YearCat_2000_2015, DurCat_Short",Director_Other,0.07294706127553147,0.9668508287292816,1.0116563681699038
+"Certificate_R, MetaCat_Medium",Director_Other,0.08805752396832013,0.9668192219679634,1.0116232966966063
+"Certificate_R, DurCat_Short, MetaCat_Medium",Director_Other,0.08805752396832013,0.9668192219679634,1.0116232966966063
+"VotesCat_Medium, YearCat_Before_2000","Director_Other, DurCat_Short",0.11963318049187162,0.9655172413793104,1.0112533778952044
+"Certificate_R, RatingCategory_Average","Director_Other, DurCat_Short",0.1011879949979158,0.9652087475149106,1.0109302708091117
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_Medium","Director_Other, DurCat_Short",0.08941225510629429,0.9651293588301463,1.0108471215164903
+"YearCat_Before_2000, VotesCat_Medium, MetaCat_Medium","Director_Other, DurCat_Short",0.06252605252188412,0.9646302250803859,1.0103243440156497
+"YearCat_2015_plus, RatingCategory_Average","Director_Other, DurCat_Short",0.2032096706961234,0.9643916913946587,1.0100745110918081
+"Certificate_R, RatingCategory_Average",Director_Other,0.1011879949979158,0.9652087475149106,1.0099381900723021
+"Certificate_R, RatingCategory_Average, DurCat_Short",Director_Other,0.1011879949979158,0.9652087475149106,1.0099381900723021
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_Medium",Director_Other,0.08941225510629429,0.9651293588301463,1.0098551223785939
+"YearCat_2015_plus, RatingCategory_Average, DurCat_Short, VotesCat_Medium",Director_Other,0.08941225510629429,0.9651293588301463,1.0098551223785939
+"Certificate_R, RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.055960817007086286,0.9640933572710951,1.009762045009106
+"YearCat_2015_plus, MetaCat_Medium",Director_Other,0.19789495623176323,0.9649390243902439,1.0096559675115888
+"YearCat_2015_plus, DurCat_Short, MetaCat_Medium",Director_Other,0.1976865360566903,0.9649033570701933,1.0096186473062452
+"YearCat_2015_plus, MetaCat_Medium","Director_Other, DurCat_Short",0.1976865360566903,0.9639227642276423,1.0095833710465463
+"Genre_Action, YearCat_Before_2000",Director_Other,0.05981659024593581,0.9647058823529412,1.00941202126909
+"Genre_Action, DurCat_Short, YearCat_Before_2000",Director_Other,0.05971238015839933,0.9646464646464646,1.0093498500433404
+"YearCat_2015_plus, RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.12109212171738225,0.9635157545605308,1.009157081506533
+"YearCat_2015_plus, RatingCategory_Average",Director_Other,0.2032096706961234,0.9643916913946587,1.00908327015845
+"YearCat_2015_plus, DurCat_Short, RatingCategory_Average",Director_Other,0.2032096706961234,0.9643916913946587,1.00908327015845
+"Certificate_R, RatingCategory_Average, MetaCat_Medium",Director_Other,0.055960817007086286,0.9640933572710951,1.008771110715672
+"Certificate_R, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.055960817007086286,0.9640933572710951,1.008771110715672
+"Genre_Action, YearCat_Before_2000","Director_Other, DurCat_Short",0.05971238015839933,0.9630252100840335,1.0086433001491362
+"YearCat_2015_plus, Genre_Action, RatingCategory_Average","Director_Other, DurCat_Short",0.054085035431429763,0.9628942486085343,1.008506135084861
+"YearCat_2015_plus, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.12109212171738225,0.9635157545605308,1.0081667408966148
+"YearCat_2015_plus, RatingCategory_Average, MetaCat_Medium",Director_Other,0.12109212171738225,0.9635157545605308,1.0081667408966148
+"YearCat_2000_2015, Genre_Drama",Director_Other,0.06304710295956649,0.963375796178344,1.0080202966009584
+"YearCat_2000_2015, DurCat_Short, Genre_Drama",Director_Other,0.06283868278449353,0.9632587859424918,1.0078978639084235
+RatingCategory_Average,"Director_Other, DurCat_Short",0.5220925385577324,0.9621663145765317,1.007743719130801
+"RatingCategory_Average, YearCat_2000_2015","Director_Other, DurCat_Short",0.1716340141725719,0.9620327102803737,1.0076037860565887
+"MetaCat_High, VotesCat_Medium",Director_Other,0.08117965819091288,0.9629171817058096,1.0075404291406553
+"YearCat_2015_plus, Genre_Action, RatingCategory_Average",Director_Other,0.054085035431429763,0.9628942486085343,1.0075164332839925
+"YearCat_2015_plus, Genre_Action, RatingCategory_Average, DurCat_Short",Director_Other,0.054085035431429763,0.9628942486085343,1.0075164332839925
+"MetaCat_High, DurCat_Short, VotesCat_Medium",Director_Other,0.08097123801583993,0.9628252788104088,1.007444267306148
+MetaCat_Medium,Director_Other,0.5081283868278449,0.9626850937808489,1.0072975858598874
+"DurCat_Short, MetaCat_Medium",Director_Other,0.5075031263026261,0.9626408381102983,1.0072512793050292
+"YearCat_2000_2015, MetaCat_Medium",Director_Other,0.1606919549812422,0.9625468164794008,1.0071529005491582
+"YearCat_2000_2015, DurCat_Short, MetaCat_Medium",Director_Other,0.16048353480616923,0.9624999999999999,1.0071039145131393
+MetaCat_Medium,"Director_Other, DurCat_Short",0.5075031263026261,0.9615004935834155,1.0070463584835685
+"YearCat_2000_2015, MetaCat_Medium","Director_Other, DurCat_Short",0.16048353480616923,0.961298377028714,1.0068346677545885
+RatingCategory_Average,Director_Other,0.5220925385577324,0.9621663145765317,1.0067547655300837
+"RatingCategory_Average, DurCat_Short",Director_Other,0.5220925385577324,0.9621663145765317,1.0067547655300837
+"RatingCategory_Average, YearCat_2000_2015",Director_Other,0.1716340141725719,0.9620327102803737,1.0066149697797915
+"RatingCategory_Average, DurCat_Short, YearCat_2000_2015",Director_Other,0.1716340141725719,0.9620327102803737,1.0066149697797915
+Genre_Drama,Director_Other,0.20779491454772822,0.9618909792571152,1.0064666706958105
+"Genre_Action, RatingCategory_Average","Director_Other, DurCat_Short",0.13318049187161318,0.9609022556390979,1.006419782265093
+"DurCat_Short, Genre_Drama",Director_Other,0.2074822842851188,0.9618357487922706,1.0064088807557114
+"RatingCategory_Average, YearCat_2000_2015, MetaCat_Medium","Director_Other, DurCat_Short",0.0996248436848687,0.9608040201005025,1.0063168933512794
+"Genre_Comedy, VotesCat_High","Director_Other, DurCat_Short",0.08368070029178824,0.9605263157894737,1.0060260343064604
+"MetaCat_High, VotesCat_Medium","Director_Other, DurCat_Short",0.08097123801583993,0.9604449938195302,1.0059408601497721
+Genre_Drama,"Director_Other, DurCat_Short",0.2074822842851188,0.9604438012542209,1.0059396110931569
+"RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.30981659024593583,0.9602713178294574,1.0057589572027368
+"YearCat_2000_2015, Genre_Drama","Director_Other, DurCat_Short",0.06283868278449353,0.9601910828025477,1.0056749214771064
+"Genre_Action, RatingCategory_Average",Director_Other,0.13318049187161318,0.9609022556390979,1.005432127915471
+"Genre_Action, RatingCategory_Average, DurCat_Short",Director_Other,0.13318049187161318,0.9609022556390979,1.005432127915471
+"RatingCategory_Average, DurCat_Short, YearCat_2000_2015, MetaCat_Medium",Director_Other,0.0996248436848687,0.9608040201005025,1.005329339972132
+"RatingCategory_Average, YearCat_2000_2015, MetaCat_Medium",Director_Other,0.0996248436848687,0.9608040201005025,1.005329339972132
+"Genre_Comedy, VotesCat_High",Director_Other,0.08368070029178824,0.9605263157894737,1.0050387663630782
+"Genre_Comedy, DurCat_Short, VotesCat_High",Director_Other,0.08368070029178824,0.9605263157894737,1.0050387663630782
+"RatingCategory_Average, MetaCat_Medium",Director_Other,0.30981659024593583,0.9602713178294574,1.0047719513566105
+"RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.30981659024593583,0.9602713178294574,1.0047719513566105
+"RatingCategory_Average, YearCat_Before_2000","Director_Other, DurCat_Short",0.1472488536890371,0.9592668024439918,1.0047068583554404
+"MetaCat_Medium, YearCat_Before_2000",Director_Other,0.14954147561483952,0.959866220735786,1.0043480813630579
+"MetaCat_Medium, DurCat_Short, YearCat_Before_2000",Director_Other,0.14933305543976658,0.9598124581379773,1.0042918273134915
+YearCat_2015_plus,"Director_Other, DurCat_Short",0.3740100041684035,0.9586004273504274,1.00400891736026
+"Genre_Action, RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.07471863276365152,0.9585561497326204,1.0039625423307383
+"MetaCat_Medium, YearCat_Before_2000","Director_Other, DurCat_Short",0.14933305543976658,0.9585284280936456,1.0039335075296467
+"RatingCategory_Average, YearCat_Before_2000",Director_Other,0.1472488536890371,0.9592668024439918,1.003720884991009
+"RatingCategory_Average, DurCat_Short, YearCat_Before_2000",Director_Other,0.1472488536890371,0.9592668024439918,1.003720884991009
+YearCat_2015_plus,Director_Other,0.37421842434347646,0.9591346153846154,1.0035825721547018
+"YearCat_2015_plus, DurCat_Short",Director_Other,0.3740100041684035,0.9591127739176911,1.0035597185164284
+"Genre_Action, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.07471863276365152,0.9585561497326204,1.0029772994040154
+"Genre_Action, RatingCategory_Average, MetaCat_Medium",Director_Other,0.07471863276365152,0.9585561497326204,1.0029772994040154
+"Director_Other, YearCat_2015_plus, MetaCat_High",DurCat_Short,0.09358065860775323,1.0,1.000938771252738
+"Director_Other, Certificate_A, MetaCat_Medium",DurCat_Short,0.0637765735723218,1.0,1.000938771252738
+"RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.32263443101292205,1.0,1.000938771252738
+"MetaCat_Low, RatingCategory_Average",DurCat_Short,0.1452688620258441,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_Medium, YearCat_Before_2000",DurCat_Short,0.07013338891204669,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, RatingCategory_Average",DurCat_Short,0.08003334722801167,1.0,1.000938771252738
+"VotesCat_Low, Genre_Drama",DurCat_Short,0.05335556481867445,1.0,1.000938771252738
+"RatingCategory_Average, Genre_Drama",DurCat_Short,0.1035848270112547,1.0,1.000938771252738
+"Director_Other, Genre_Adventure",DurCat_Short,0.052938724468528556,1.0,1.000938771252738
+"Genre_Action, YearCat_2015_plus",DurCat_Short,0.09222592746977908,1.0,1.000938771252738
+"Genre_Action, YearCat_2000_2015",DurCat_Short,0.07555231346394331,1.0,1.000938771252738
+"Genre_Action, MetaCat_Medium",DurCat_Short,0.12036265110462693,1.0,1.000938771252738
+"Genre_Action, MetaCat_Low",DurCat_Short,0.07503126302626094,1.0,1.000938771252738
+"Genre_Action, VotesCat_Medium",DurCat_Short,0.07398916215089621,1.0,1.000938771252738
+"RatingCategory_Average, VotesCat_High",DurCat_Short,0.21696540225093788,1.0,1.000938771252738
+"RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.24510212588578575,1.0,1.000938771252738
+"VotesCat_Low, RatingCategory_Average",DurCat_Short,0.08055439766569404,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Bad",DurCat_Short,0.05804501875781576,1.0,1.000938771252738
+"YearCat_2000_2015, RatingCategory_Bad",DurCat_Short,0.05137557315548145,1.0,1.000938771252738
+"RatingCategory_Bad, MetaCat_Medium",DurCat_Short,0.0854522717799083,1.0,1.000938771252738
+"MetaCat_Low, RatingCategory_Bad",DurCat_Short,0.07200917048770321,1.0,1.000938771252738
+"VotesCat_Medium, RatingCategory_Bad",DurCat_Short,0.06898707794914548,1.0,1.000938771252738
+"VotesCat_Low, RatingCategory_Bad",DurCat_Short,0.06575656523551479,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Average",DurCat_Short,0.21071279699874948,1.0,1.000938771252738
+"Genre_Comedy, MetaCat_Low",DurCat_Short,0.060337640683618174,1.0,1.000938771252738
+"Genre_Comedy, VotesCat_High",DurCat_Short,0.08711963318049187,1.0,1.000938771252738
+"Genre_Comedy, VotesCat_Medium",DurCat_Short,0.1000416840350146,1.0,1.000938771252738
+"RatingCategory_Average, YearCat_2000_2015",DurCat_Short,0.1784076698624427,1.0,1.000938771252738
+"RatingCategory_Average, YearCat_Before_2000",DurCat_Short,0.15350145894122552,1.0,1.000938771252738
+"RatingCategory_Average, MetaCat_High",DurCat_Short,0.07471863276365152,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, Certificate_A",DurCat_Short,0.07888703626511047,1.0,1.000938771252738
+"Director_Other, Certificate_R, RatingCategory_Average",DurCat_Short,0.1011879949979158,1.0,1.000938771252738
+"RatingCategory_Average, Certificate_A, VotesCat_High",DurCat_Short,0.05252188411838266,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, Certificate_A",DurCat_Short,0.05773238849520634,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_High",DurCat_Short,0.2047728220091705,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.23728636932055022,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_High, Certificate_UA",DurCat_Short,0.05054189245518966,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, RatingCategory_Average, VotesCat_High",DurCat_Short,0.07451021258857858,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2015_plus, VotesCat_Medium",DurCat_Short,0.08941225510629429,1.0,1.000938771252738
+"RatingCategory_Average, Genre_Drama, MetaCat_Medium",DurCat_Short,0.06544393497290538,1.0,1.000938771252738
+"RatingCategory_Average, Genre_Drama, VotesCat_Medium",DurCat_Short,0.05085452271779908,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, Genre_Drama",DurCat_Short,0.08315964985410587,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2000_2015, VotesCat_Medium",DurCat_Short,0.07774072530220925,1.0,1.000938771252738
+"Director_Other, Certificate_R, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.055960817007086286,1.0,1.000938771252738
+"Director_Other, Certificate_R, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.06169237182159233,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, Genre_Drama, MetaCat_Medium",DurCat_Short,0.06356815339724885,1.0,1.000938771252738
+"Director_Other, RatingCategory_Bad",DurCat_Short,0.15579408086702792,1.0,1.000938771252738
+"Director_Other, YearCat_2000_2015, Genre_Comedy",DurCat_Short,0.07294706127553147,1.0,1.000938771252738
+"Director_Other, Genre_Drama, VotesCat_High",DurCat_Short,0.06200500208420175,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, Genre_Drama",DurCat_Short,0.05304293455606503,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2000_2015, VotesCat_High",DurCat_Short,0.068882867861609,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_High, YearCat_Before_2000",DurCat_Short,0.05491871613172155,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_High, MetaCat_Medium",DurCat_Short,0.10525218841183827,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.13859941642350979,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.06148395164651938,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.06596498541058775,1.0,1.000938771252738
+"Director_Other, Certificate_U, RatingCategory_Average",DurCat_Short,0.060337640683618174,1.0,1.000938771252738
+"Certificate_R, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.05804501875781576,1.0,1.000938771252738
+"Certificate_R, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.0637765735723218,1.0,1.000938771252738
+"Director_Other, MetaCat_Low",DurCat_Short,0.2196748645268862,1.0,1.000938771252738
+"Director_Other, Genre_Crime",DurCat_Short,0.06461025427261359,1.0,1.000938771252738
+"Genre_Comedy, YearCat_2015_plus",DurCat_Short,0.08274280950395999,1.0,1.000938771252738
+"Genre_Comedy, YearCat_2000_2015",DurCat_Short,0.07544810337640684,1.0,1.000938771252738
+"Genre_Comedy, YearCat_Before_2000",DurCat_Short,0.06659024593580659,1.0,1.000938771252738
+"Genre_Comedy, MetaCat_Medium",DurCat_Short,0.11577740725302209,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, RatingCategory_Average",DurCat_Short,0.14151729887453104,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_Before_2000",DurCat_Short,0.1472488536890371,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, MetaCat_High",DurCat_Short,0.07075864943726552,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.30981659024593583,1.0,1.000938771252738
+"Director_Other, Genre_Comedy, VotesCat_High",DurCat_Short,0.08368070029178824,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, Genre_Drama",DurCat_Short,0.10056273447269695,1.0,1.000938771252738
+"Genre_Comedy, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.05043768236765319,1.0,1.000938771252738
+"Genre_Comedy, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.07774072530220925,1.0,1.000938771252738
+"Genre_Comedy, RatingCategory_Average, VotesCat_High",DurCat_Short,0.051271363067944976,1.0,1.000938771252738
+"Genre_Comedy, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.06825760733639016,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, Genre_Comedy",DurCat_Short,0.08097123801583993,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, RatingCategory_Bad",DurCat_Short,0.07075864943726552,1.0,1.000938771252738
+"Director_Other, VotesCat_Medium, RatingCategory_Bad",DurCat_Short,0.06752813672363485,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, RatingCategory_Bad",DurCat_Short,0.0653397248853689,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, RatingCategory_Average",DurCat_Short,0.2032096706961234,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2000_2015",DurCat_Short,0.1716340141725719,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average",DurCat_Short,0.5220925385577324,1.0,1.000938771252738
+"Director_Other, RatingCategory_Bad, MetaCat_Medium",DurCat_Short,0.08409754064193414,1.0,1.000938771252738
+"Director_Other, Genre_Horror",DurCat_Short,0.062109212171738225,1.0,1.000938771252738
+"MetaCat_Low, VotesCat_High",DurCat_Short,0.10243851604835348,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, RatingCategory_Average, YearCat_2015_plus",DurCat_Short,0.05335556481867445,1.0,1.000938771252738
+"Genre_Action, RatingCategory_Average",DurCat_Short,0.13859941642350979,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2015_plus, VotesCat_High",DurCat_Short,0.08097123801583993,1.0,1.000938771252738
+"Director_Other, Genre_Comedy, YearCat_Before_2000",DurCat_Short,0.06471446436015006,1.0,1.000938771252738
+"Director_Other, Genre_Comedy, MetaCat_Medium",DurCat_Short,0.11275531471446436,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, Genre_Comedy",DurCat_Short,0.05939974989578991,1.0,1.000938771252738
+"YearCat_2015_plus, Genre_Drama",DurCat_Short,0.08566069195498124,1.0,1.000938771252738
+"Genre_Drama, VotesCat_High",DurCat_Short,0.0673197165485619,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, Genre_Comedy, MetaCat_Medium",DurCat_Short,0.07555231346394331,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, VotesCat_Medium, Genre_Comedy",DurCat_Short,0.06638182576073363,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, RatingCategory_Bad",DurCat_Short,0.05700291788245102,1.0,1.000938771252738
+"Director_Other, YearCat_2000_2015, RatingCategory_Bad",DurCat_Short,0.05085452271779908,1.0,1.000938771252738
+"Director_Other, YearCat_Before_2000, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.08909962484368487,1.0,1.000938771252738
+"Director_Other, VotesCat_Medium, Genre_Comedy",DurCat_Short,0.09754064193413922,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, Genre_Comedy",DurCat_Short,0.13390996248436848,1.0,1.000938771252738
+"Genre_Action, YearCat_2015_plus, VotesCat_High",DurCat_Short,0.0551271363067945,1.0,1.000938771252738
+"Genre_Action, MetaCat_Medium, VotesCat_High",DurCat_Short,0.059087119633180495,1.0,1.000938771252738
+"Genre_Action, YearCat_2015_plus, RatingCategory_Average",DurCat_Short,0.056169237182159236,1.0,1.000938771252738
+"MetaCat_Low, YearCat_Before_2000",DurCat_Short,0.0637765735723218,1.0,1.000938771252738
+"Director_Other, Genre_Action, YearCat_2015_plus, VotesCat_High",DurCat_Short,0.05168820341809087,1.0,1.000938771252738
+"Director_Other, Genre_Action, VotesCat_High, MetaCat_Medium",DurCat_Short,0.054189245518966235,1.0,1.000938771252738
+Genre_Crime,DurCat_Short,0.07065443934972905,1.0,1.000938771252738
+"Director_Other, Genre_Action, RatingCategory_Average, YearCat_2015_plus",DurCat_Short,0.054085035431429763,1.0,1.000938771252738
+Certificate_UA,DurCat_Short,0.12432263443101292,1.0,1.000938771252738
+"RatingCategory_Average, Certificate_UA",DurCat_Short,0.06940391829929136,1.0,1.000938771252738
+"Director_Other, Genre_Action, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.07471863276365152,1.0,1.000938771252738
+"Director_Other, Certificate_PG-13",DurCat_Short,0.06669445602334306,1.0,1.000938771252738
+"YearCat_2015_plus, Certificate_A",DurCat_Short,0.06304710295956649,1.0,1.000938771252738
+"YearCat_2000_2015, Certificate_A",DurCat_Short,0.051167152980408505,1.0,1.000938771252738
+"Certificate_A, MetaCat_Medium",DurCat_Short,0.06909128803668195,1.0,1.000938771252738
+"RatingCategory_Average, Certificate_A",DurCat_Short,0.08284701959149646,1.0,1.000938771252738
+"Director_Other, Genre_Action, RatingCategory_Average, VotesCat_High",DurCat_Short,0.07909545644018341,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, MetaCat_High, VotesCat_High",DurCat_Short,0.055856606919549814,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, VotesCat_High, MetaCat_Medium",DurCat_Short,0.0653397248853689,1.0,1.000938771252738
+Certificate_PG-13,DurCat_Short,0.06836181742392664,1.0,1.000938771252738
+"Director_Other, Certificate_R, YearCat_2015_plus",DurCat_Short,0.06450604418507712,1.0,1.000938771252738
+"Director_Other, Certificate_R, YearCat_2000_2015",DurCat_Short,0.05502292621925802,1.0,1.000938771252738
+"Director_Other, Certificate_R, MetaCat_Medium",DurCat_Short,0.08805752396832013,1.0,1.000938771252738
+"Director_Other, Certificate_R, VotesCat_Medium",DurCat_Short,0.09003751563151313,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, Certificate_UA",DurCat_Short,0.06523551479783243,1.0,1.000938771252738
+"Director_Other, Certificate_U, MetaCat_Medium",DurCat_Short,0.053876615256356813,1.0,1.000938771252738
+"Director_Other, Certificate_U, VotesCat_High",DurCat_Short,0.07617757398916215,1.0,1.000938771252738
+"Director_Other, Certificate_U, RatingCategory_Good",DurCat_Short,0.05075031263026261,1.0,1.000938771252738
+"YearCat_2015_plus, MetaCat_High, VotesCat_High",DurCat_Short,0.06169237182159233,1.0,1.000938771252738
+"MetaCat_Medium, YearCat_2015_plus, VotesCat_High",DurCat_Short,0.07023759899958316,1.0,1.000938771252738
+"MetaCat_Medium, YearCat_2000_2015, VotesCat_High",DurCat_Short,0.05491871613172155,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, YearCat_2000_2015",DurCat_Short,0.052938724468528556,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, YearCat_Before_2000",DurCat_Short,0.05075031263026261,1.0,1.000938771252738
+"YearCat_2015_plus, MetaCat_High, RatingCategory_Good",DurCat_Short,0.06982075864943726,1.0,1.000938771252738
+"Certificate_R, MetaCat_Medium",DurCat_Short,0.09107961650687786,1.0,1.000938771252738
+"Certificate_R, VotesCat_High",DurCat_Short,0.05210504376823676,1.0,1.000938771252738
+"Certificate_R, VotesCat_Medium",DurCat_Short,0.09285118799499792,1.0,1.000938771252738
+"Certificate_R, RatingCategory_Average",DurCat_Short,0.10483534806169237,1.0,1.000938771252738
+"Director_Other, Certificate_R",DurCat_Short,0.16902876198416006,1.0,1.000938771252738
+"MetaCat_High, YearCat_2000_2015, RatingCategory_Good",DurCat_Short,0.05210504376823676,1.0,1.000938771252738
+"RatingCategory_Average, VotesCat_High, Certificate_UA",DurCat_Short,0.054085035431429763,1.0,1.000938771252738
+"Director_Other, VotesCat_Low, RatingCategory_Bad, MetaCat_Medium",DurCat_Short,0.05679449770737807,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2015_plus, MetaCat_Medium",DurCat_Short,0.12109212171738225,1.0,1.000938771252738
+"Director_Other, MetaCat_Medium, Certificate_UA",DurCat_Short,0.05106294289287203,1.0,1.000938771252738
+"Genre_Comedy, RatingCategory_Average",DurCat_Short,0.13766152563568154,1.0,1.000938771252738
+"Genre_Action, Certificate_UA",DurCat_Short,0.05689870779491455,1.0,1.000938771252738
+"MetaCat_Low, VotesCat_Medium",DurCat_Short,0.10879533138807837,1.0,1.000938771252738
+"VotesCat_Low, YearCat_2000_2015",DurCat_Short,0.05325135473113798,1.0,1.000938771252738
+"VotesCat_Low, YearCat_Before_2000",DurCat_Short,0.05106294289287203,1.0,1.000938771252738
+"Genre_Action, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.0779491454772822,1.0,1.000938771252738
+"Genre_Action, RatingCategory_Average, MetaCat_Low",DurCat_Short,0.051271363067944976,1.0,1.000938771252738
+"Genre_Action, RatingCategory_Average, VotesCat_High",DurCat_Short,0.08336807002917883,1.0,1.000938771252738
+MetaCat_Low,DurCat_Short,0.22498957899124636,1.0,1.000938771252738
+"Director_Other, Genre_Comedy",DurCat_Short,0.21863276365152146,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2000_2015, MetaCat_Medium",DurCat_Short,0.0996248436848687,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, VotesCat_Medium",DurCat_Short,0.10619007919966653,1.0,1.000938771252738
+"Director_Other, MetaCat_Medium, VotesCat_High",DurCat_Short,0.1606919549812422,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, VotesCat_High",DurCat_Short,0.09972905377240517,1.0,1.000938771252738
+RatingCategory_Bad,DurCat_Short,0.15839933305543977,1.0,1.000938771252738
+RatingCategory_Average,DurCat_Short,0.5426219258024176,1.0,1.000938771252738
+"Director_Other, Genre_Action, YearCat_2015_plus",DurCat_Short,0.08805752396832013,1.0,1.000938771252738
+"Director_Other, Genre_Action, YearCat_2000_2015",DurCat_Short,0.07107127969987495,1.0,1.000938771252738
+"Director_Other, Genre_Action, MetaCat_Medium",DurCat_Short,0.11463109629012089,1.0,1.000938771252738
+"Director_Other, Genre_Action, MetaCat_Low",DurCat_Short,0.07263443101292205,1.0,1.000938771252738
+"Director_Other, VotesCat_High, Certificate_UA",DurCat_Short,0.08899541475614839,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, YearCat_Before_2000",DurCat_Short,0.061900791996665275,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, VotesCat_High",DurCat_Short,0.1605877448937057,1.0,1.000938771252738
+"Director_Other, YearCat_2000_2015, VotesCat_High",DurCat_Short,0.12661525635681534,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Good, VotesCat_High",DurCat_Short,0.07669862442684452,1.0,1.000938771252738
+"YearCat_2000_2015, RatingCategory_Good, VotesCat_High",DurCat_Short,0.05606502709462276,1.0,1.000938771252738
+"Certificate_U, VotesCat_High",DurCat_Short,0.08295122967903293,1.0,1.000938771252738
+"Certificate_U, RatingCategory_Good",DurCat_Short,0.05481450604418508,1.0,1.000938771252738
+"Certificate_U, RatingCategory_Average",DurCat_Short,0.06419341392246769,1.0,1.000938771252738
+"Director_Other, Certificate_U",DurCat_Short,0.12328053355564819,1.0,1.000938771252738
+"Certificate_R, YearCat_2015_plus",DurCat_Short,0.06638182576073363,1.0,1.000938771252738
+"Certificate_R, YearCat_2000_2015",DurCat_Short,0.0566902876198416,1.0,1.000938771252738
+"Certificate_R, YearCat_Before_2000",DurCat_Short,0.051479783243017926,1.0,1.000938771252738
+"MetaCat_Medium, RatingCategory_Good, VotesCat_High",DurCat_Short,0.057107127969987494,1.0,1.000938771252738
+"VotesCat_Low, RatingCategory_Bad, MetaCat_Medium",DurCat_Short,0.057211338057523965,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.12567736556898707,1.0,1.000938771252738
+"RatingCategory_Average, YearCat_2000_2015, MetaCat_Medium",DurCat_Short,0.10368903709879117,1.0,1.000938771252738
+"MetaCat_Medium, RatingCategory_Average, YearCat_Before_2000",DurCat_Short,0.0932680283451438,1.0,1.000938771252738
+"MetaCat_Low, YearCat_2015_plus, RatingCategory_Average",DurCat_Short,0.054397665694039185,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_High",DurCat_Short,0.08513964151729887,1.0,1.000938771252738
+"RatingCategory_Average, YearCat_2000_2015, VotesCat_High",DurCat_Short,0.07305127136306795,1.0,1.000938771252738
+"RatingCategory_Average, VotesCat_High, YearCat_Before_2000",DurCat_Short,0.05877448937057107,1.0,1.000938771252738
+"MetaCat_Medium, RatingCategory_Average, VotesCat_High",DurCat_Short,0.1133805752396832,1.0,1.000938771252738
+"MetaCat_Low, RatingCategory_Average, VotesCat_High",DurCat_Short,0.07659441433930804,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.09264276781992496,1.0,1.000938771252738
+"YearCat_2015_plus, Certificate_UA",DurCat_Short,0.05200083368070029,1.0,1.000938771252738
+"MetaCat_Medium, Certificate_UA",DurCat_Short,0.05450187578157566,1.0,1.000938771252738
+"VotesCat_High, Certificate_UA",DurCat_Short,0.09722801167152981,1.0,1.000938771252738
+Certificate_U,DurCat_Short,0.13182576073363902,1.0,1.000938771252738
+Certificate_R,DurCat_Short,0.17455189662359316,1.0,1.000938771252738
+"Certificate_U, MetaCat_Medium",DurCat_Short,0.057419758232596915,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, YearCat_2015_plus",DurCat_Short,0.08274280950395999,1.0,1.000938771252738
+"Director_Other, MetaCat_Low, YearCat_2000_2015",DurCat_Short,0.07503126302626094,1.0,1.000938771252738
+"YearCat_2015_plus, MetaCat_High, RatingCategory_Good, VotesCat_High",DurCat_Short,0.05075031263026261,1.0,1.000938771252738
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.05450187578157566,1.0,1.000938771252738
+"Director_Other, Genre_Action, VotesCat_Medium",DurCat_Short,0.07211338057523968,1.0,1.000938771252738
+"RatingCategory_Average, YearCat_2000_2015, VotesCat_Medium",DurCat_Short,0.08013755731554814,1.0,1.000938771252738
+"RatingCategory_Average, VotesCat_Medium, YearCat_Before_2000",DurCat_Short,0.07232180075031264,1.0,1.000938771252738
+"RatingCategory_Average, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.14297624010004167,1.0,1.000938771252738
+"Director_Other, Genre_Action, RatingCategory_Average",DurCat_Short,0.13318049187161318,1.0,1.000938771252738
+"MetaCat_Low, RatingCategory_Average, VotesCat_Medium",DurCat_Short,0.06315131304710296,1.0,1.000938771252738
+Genre_Horror,DurCat_Short,0.06554814506044185,1.0,1.000938771252738
+"VotesCat_Low, RatingCategory_Average, MetaCat_Medium",DurCat_Short,0.06627761567319716,1.0,1.000938771252738
+"MetaCat_Low, YearCat_2000_2015",DurCat_Short,0.07690704460191747,1.0,1.000938771252738
+"MetaCat_Low, YearCat_2015_plus",DurCat_Short,0.08430596081700709,1.0,1.000938771252738
+"YearCat_2015_plus, VotesCat_High",DurCat_Short,0.17215506461025426,1.0,1.000938771252738
+"YearCat_2000_2015, VotesCat_High",DurCat_Short,0.1374531054606086,1.0,1.000938771252738
+"MetaCat_Medium, VotesCat_High",DurCat_Short,0.17392663609837433,1.0,1.000938771252738
+Genre_Comedy,DurCat_Short,0.22478115881617342,1.0,1.000938771252738
+Genre_Adventure,DurCat_Short,0.056169237182159236,1.0,1.000938771252738
+"Director_Other, RatingCategory_Average, YearCat_2015_plus, MetaCat_Medium, VotesCat_Medium",DurCat_Short,0.05283451438099208,1.0,1.000938771252738
+"Director_Other, YearCat_2000_2015, VotesCat_High, MetaCat_Medium",DurCat_Short,0.05054189245518966,1.0,1.000938771252738
+"Director_Other, Genre_Action, Certificate_UA",DurCat_Short,0.05345977490621092,1.0,1.000938771252738
+"YearCat_2015_plus, MetaCat_High",DurCat_Short,0.10077115464776991,1.0,1.000938771252738
+"MetaCat_High, YearCat_2000_2015",DurCat_Short,0.07742809503959984,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, MetaCat_High, RatingCategory_Good",DurCat_Short,0.06450604418507712,1.0,1.000938771252738
+"Director_Other, YearCat_2015_plus, RatingCategory_Good, VotesCat_High",DurCat_Short,0.06971654856190079,1.0,1.000938771252738
+"Director_Other, VotesCat_High, RatingCategory_Good, MetaCat_Medium",DurCat_Short,0.052417674030846184,1.0,1.000938771252738
+"Director_Other, MetaCat_High, YearCat_2000_2015",DurCat_Short,0.07086285952480201,1.0,1.000938771252738
+"Director_Other, Certificate_UA",DurCat_Short,0.11515214672780325,1.0,1.000938771252738
+VotesCat_High,DurCat_Short,0.42309295539808256,0.9997537552327013,1.0006922953179307
+"Director_Other, VotesCat_High",DurCat_Short,0.39120466861192166,0.9997336884154461,1.0006722096625242
+"YearCat_Before_2000, RatingCategory_Average, MetaCat_Medium","Director_Other, DurCat_Short",0.08909962484368487,0.9553072625698326,1.0005597567801914
+Genre_Action,DurCat_Short,0.22967903293038766,0.999546485260771,1.0004848307669092
+"Director_Other, Genre_Action",DurCat_Short,0.21884118382659443,0.9995240361732508,1.000462360604831
+YearCat_2015_plus,DurCat_Short,0.38995414756148394,0.999465811965812,1.00040408173818
+"Director_Other, YearCat_2015_plus",DurCat_Short,0.3740100041684035,0.999443052074631,1.0003813004806674
+"RatingCategory_Good, VotesCat_High",DurCat_Short,0.18247186327636516,0.9994292237442922,1.0003674591686897
+VotesCat_Low,DurCat_Short,0.17100875364735307,0.9993909866017052,1.0003291861301724
+"Director_Other, VotesCat_Low",DurCat_Short,0.1700708628595248,0.9993876301285977,1.0003258265061044
+"Director_Other, RatingCategory_Good, VotesCat_High",DurCat_Short,0.16350562734472696,0.9993630573248407,1.0003012306341057
+YearCat_2000_2015,DurCat_Short,0.3210712796998749,0.9993512812195912,1.000289443473787
+"Director_Other, YearCat_2000_2015",DurCat_Short,0.30637765735723216,0.9993201903467029,1.0002583234136813
+"YearCat_2015_plus, VotesCat_Medium",DurCat_Short,0.15110462692788662,0.9993108201240524,1.0002489443945348
+"Director_Other, YearCat_2015_plus, VotesCat_Medium",DurCat_Short,0.14704043351396415,0.9992917847025495,1.0002298911031255
+"MetaCat_High, VotesCat_High",DurCat_Short,0.14672780325135473,0.9992902767920511,1.000228381777044
+"VotesCat_Low, MetaCat_Medium",DurCat_Short,0.14120466861192163,0.9992625368731564,1.000200615816711
+"Director_Other, VotesCat_Low, MetaCat_Medium",DurCat_Short,0.14047519799916633,0.9992587101556709,1.0001967855068132
+"Director_Other, MetaCat_High, VotesCat_High",DurCat_Short,0.13078365985827428,0.9992038216560509,1.0001418454794477
+"Genre_Action, VotesCat_High",DurCat_Short,0.13026260942059192,0.9992006394884093,1.0001386603244786
+"Director_Other, Genre_Action, VotesCat_High",DurCat_Short,0.12140475197999166,0.9991423670668954,1.0000803331984904
+"MetaCat_High, RatingCategory_Good, VotesCat_High",DurCat_Short,0.11973739057940809,0.9991304347826088,1.0000683897125184
+"Genre_Action, YearCat_2015_plus","Director_Other, DurCat_Short",0.08805752396832013,0.9548022598870056,1.000030832337449
+"VotesCat_High, YearCat_Before_2000",DurCat_Short,0.11348478532721967,0.9990825688073395,1.0000204788020475
+Director_Other,DurCat_Short,0.9547728220091705,0.999018645731109,0.9999564957166707
+DurCat_Short,Director_Other,0.9547728220091705,0.9556691352873683,0.9999564957166707
+"Director_Other, MetaCat_High, RatingCategory_Good, VotesCat_High",DurCat_Short,0.10577323884952064,0.9990157480314961,0.9999535952967806
+"Director_Other, VotesCat_High, YearCat_Before_2000",DurCat_Short,0.10400166736140058,0.998998998998999,0.9999368305407734
+"Certificate_A, VotesCat_High",DurCat_Short,0.10389745727386411,0.998997995991984,0.9999358265921642
+"YearCat_2015_plus, MetaCat_Medium",DurCat_Short,0.20487703209670696,0.9989837398373984,0.9999215570543105
+"Director_Other, YearCat_2015_plus, MetaCat_Medium",DurCat_Short,0.1976865360566903,0.9989468141126909,0.9998845966647942
+"Director_Other, Certificate_A, VotesCat_High",DurCat_Short,0.09358065860775323,0.9988876529477198,0.999825379961022
+MetaCat_Medium,DurCat_Short,0.5271988328470196,0.9988153998025666,0.9997530589866933
+"Director_Other, MetaCat_Medium",DurCat_Short,0.5075031263026261,0.9987694831829369,0.9997070992618611
+"YearCat_2000_2015, MetaCat_Medium",DurCat_Short,0.16673614005835766,0.9987515605493134,0.9996891598029843
+MetaCat_High,DurCat_Short,0.2468736973739058,0.998735244519393,0.9996728284560441
+"YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.08055439766569404,0.9987080103359174,0.9996455687058999
+"Director_Other, YearCat_2000_2015, MetaCat_Medium",DurCat_Short,0.16048353480616923,0.9987029831387807,0.9996405367893751
+"Director_Other, YearCat_2015_plus, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.07857440600250104,0.9986754966887418,0.9996130245358471
+"MetaCat_Medium, YearCat_Before_2000",DurCat_Short,0.15558566069195498,0.9986622073578596,0.9995997227293231
+Certificate_A,DurCat_Short,0.15339724885368905,0.9986431478968792,0.9995806453758687
+"YearCat_Before_2000, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.08909962484368487,0.9553072625698326,0.9995778531915945
+"MetaCat_Medium, RatingCategory_Average, YearCat_Before_2000",Director_Other,0.08909962484368487,0.9553072625698326,0.9995778531915945
+"Director_Other, MetaCat_High",DurCat_Short,0.2275948311796582,0.9986282578875172,0.9995657413881939
+"Director_Other, MetaCat_Medium, YearCat_Before_2000",DurCat_Short,0.14933305543976658,0.9986062717770036,0.9995437346377517
+Genre_Drama,DurCat_Short,0.2157148812005002,0.9985528219971055,0.9994902346807368
+"MetaCat_High, Genre_Drama",DurCat_Short,0.07086285952480201,0.9985315712187959,0.9994689639528075
+"Director_Other, Certificate_A",DurCat_Short,0.1409962484368487,0.9985239852398524,0.9994613708523651
+"Director_Other, Genre_Drama",DurCat_Short,0.2074822842851188,0.9984954864593781,0.9994328453180549
+"VotesCat_Low, YearCat_2015_plus",DurCat_Short,0.06669445602334306,0.9984399375975039,0.999377244308506
+"Director_Other, VotesCat_Low, YearCat_2015_plus",DurCat_Short,0.06638182576073363,0.9984326018808778,0.99936990170532
+"Director_Other, MetaCat_High, Genre_Drama",DurCat_Short,0.06575656523551479,0.9984177215189871,0.9993550073741734
+"YearCat_2000_2015, VotesCat_Medium",DurCat_Short,0.1303668195081284,0.9984038308060654,0.9993411036210498
+"Genre_Drama, YearCat_Before_2000",DurCat_Short,0.06481867444768653,0.9983948635634029,0.9993321279601975
+"Director_Other, YearCat_2000_2015, VotesCat_Medium",DurCat_Short,0.12682367653188828,0.9983593109105825,0.9992965419315687
+"Genre_Action, YearCat_Before_2000",DurCat_Short,0.061900791996665275,0.9983193277310923,0.999256521217019
+"Director_Other, Genre_Drama, YearCat_Before_2000",DurCat_Short,0.06148395164651938,0.9983079526226735,0.9992451354299754
+"YearCat_2015_plus, RatingCategory_Good",DurCat_Short,0.12119633180491872,0.9982832618025751,0.9992204214308449
+"Director_Other, Genre_Action, YearCat_Before_2000",DurCat_Short,0.05971238015839933,0.9982578397212543,0.9991949754840049
+"Genre_Drama, MetaCat_Medium",DurCat_Short,0.11577740725302209,0.9982030548068284,0.9991401391390763
+VotesCat_Medium,DurCat_Short,0.4049604001667361,0.9982019008476752,0.9991389840966195
+YearCat_Before_2000,DurCat_Short,0.28803668195081283,0.9981942939689419,0.9991313700767671
+"MetaCat_High, RatingCategory_Good",DurCat_Short,0.17121717382242602,0.9981773997569867,0.9991144600050114
+"Director_Other, YearCat_2015_plus, RatingCategory_Good",DurCat_Short,0.1137974155898291,0.9981718464351006,0.9991089014698263
+"Director_Other, Genre_Drama, MetaCat_Medium",DurCat_Short,0.11306794497707379,0.9981600735970562,0.99909711757978
+"Director_Other, VotesCat_Medium",DurCat_Short,0.39349729053772403,0.9981496167063176,0.999086650872413
+Genre_Biography,DurCat_Short,0.055648186744476864,0.9981308411214954,0.9990678576616115
+"Genre_Action, YearCat_2015_plus, DurCat_Short",Director_Other,0.08805752396832013,0.9548022598870056,0.9990494478111118
+"Genre_Action, YearCat_2015_plus",Director_Other,0.08805752396832013,0.9548022598870056,0.9990494478111118
+"Director_Other, YearCat_Before_2000",DurCat_Short,0.2743851604835348,0.9981046247156935,0.9990416166446016
+"VotesCat_Low, YearCat_2015_plus, MetaCat_Medium",DurCat_Short,0.054085035431429763,0.9980769230769231,0.999013889000329
+"Director_Other, VotesCat_Low, YearCat_2015_plus, MetaCat_Medium",DurCat_Short,0.05377240516882034,0.9980657640232109,0.999002719470818
+"Director_Other, MetaCat_High, RatingCategory_Good",DurCat_Short,0.1558982909545644,0.9979986657771849,0.9989355582348874
+"Director_Other, Genre_Biography",DurCat_Short,0.05179241350562735,0.997991967871486,0.9989288540413873
+"MetaCat_High, Genre_Drama, RatingCategory_Good",DurCat_Short,0.05033347228011672,0.9979338842975207,0.9988707159402325
+YearCat_2000_2015,"Director_Other, DurCat_Short",0.30637765735723216,0.9536166072007783,0.9987890157933497
+"YearCat_2000_2015, RatingCategory_Good",DurCat_Short,0.09128803668195082,0.9977220956719818,0.9986587284936203
+YearCat_2000_2015,Director_Other,0.3065860775323051,0.954265325981187,0.9984876314595432
+"VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.21206752813672364,0.9975490196078431,0.998485489950648
+"MetaCat_High, VotesCat_Medium",DurCat_Short,0.08409754064193414,0.9975278121137207,0.9984642625475397
+"Director_Other, YearCat_2000_2015, RatingCategory_Good",DurCat_Short,0.08388912046686119,0.9975216852540272,0.9984581299361265
+"YearCat_2000_2015, DurCat_Short",Director_Other,0.30637765735723216,0.9542356377799416,0.9984565674557103
+"Director_Other, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.2063359733222176,0.9974811083123426,0.9984175149019755
+"Director_Other, MetaCat_High, VotesCat_Medium",DurCat_Short,0.08097123801583993,0.9974326059050063,0.9983689669619735
+"RatingCategory_Good, MetaCat_Medium",Director_Other,0.11421425593997499,0.9538729329852045,0.9980770542935364
+"YearCat_2000_2015, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.066902876198416,0.9968944099378882,0.9978302657519532
+"DurCat_Short, RatingCategory_Good, MetaCat_Medium",Director_Other,0.11358899541475614,0.9536307961504812,0.9978236964191493
+RatingCategory_Good,DurCat_Short,0.2980408503543143,0.9968630184733357,0.9977988448179962
+"YearCat_2000_2015, Genre_Drama",DurCat_Short,0.06523551479783243,0.9968152866242039,0.9977510681595766
+"Director_Other, YearCat_2000_2015, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.06523551479783243,0.9968152866242039,0.9977510681595766
+"MetaCat_Medium, VotesCat_Medium, YearCat_Before_2000",DurCat_Short,0.06461025427261359,0.9967845659163987,0.997720318612054
+"Genre_Drama, VotesCat_Medium",DurCat_Short,0.09503959983326386,0.9967213114754099,0.9976570047896144
+"Director_Other, YearCat_2000_2015, Genre_Drama",DurCat_Short,0.06283868278449353,0.9966942148760329,0.9976298827527289
+"Director_Other, YearCat_Before_2000, VotesCat_Medium, MetaCat_Medium",DurCat_Short,0.06252605252188412,0.9966777408637875,0.9976133932751543
+"VotesCat_Medium, YearCat_Before_2000",DurCat_Short,0.12348895373072113,0.9966358284272498,0.9975714414924262
+"Director_Other, Genre_Drama, VotesCat_Medium",DurCat_Short,0.09243434764485202,0.996629213483146,0.997564820338403
+"Director_Other, RatingCategory_Good",DurCat_Short,0.27688620258441016,0.9966241560390097,0.9975597581464835
+Genre_Action,"Director_Other, DurCat_Short",0.21884118382659443,0.9523809523809524,0.997494828536086
+"Genre_Action, MetaCat_Medium","Director_Other, DurCat_Short",0.11463109629012089,0.9523809523809523,0.9974948285360858
+"Director_Other, VotesCat_Medium, YearCat_Before_2000",DurCat_Short,0.11963318049187162,0.9965277777777778,0.9974632894081105
+"RatingCategory_Average, Certificate_A","Director_Other, DurCat_Short",0.07888703626511047,0.9522012578616353,0.9973066219646641
+"Genre_Drama, RatingCategory_Good",DurCat_Short,0.0846185910796165,0.9963190184049079,0.9972543340579426
+"Director_Other, Genre_Drama, RatingCategory_Good",DurCat_Short,0.0795122967903293,0.996083550913838,0.9970186455167612
+Genre_Action,Director_Other,0.2189453939141309,0.9528344671201815,0.9969904641244425
+"Genre_Action, DurCat_Short",Director_Other,0.21884118382659443,0.9528130671506353,0.9969680724432992
+"Certificate_A, RatingCategory_Good",DurCat_Short,0.05210504376823676,0.99601593625498,0.9969509673832051
+YearCat_Before_2000,Director_Other,0.2749062109212172,0.9526905019862768,0.9968398273972645
+"DurCat_Short, YearCat_Before_2000",Director_Other,0.2743851604835348,0.9526049204052098,0.9967502798177291
+"Genre_Action, MetaCat_Medium",Director_Other,0.11463109629012089,0.9523809523809523,0.9965159327279053
+"Genre_Action, DurCat_Short, MetaCat_Medium",Director_Other,0.11463109629012089,0.9523809523809523,0.9965159327279053
+"MetaCat_High, YearCat_Before_2000",DurCat_Short,0.06867444768653605,0.9954682779456192,0.9964027949479672
+"RatingCategory_Average, Certificate_A",Director_Other,0.07888703626511047,0.9522012578616353,0.9963279108538058
+"RatingCategory_Average, DurCat_Short, Certificate_A",Director_Other,0.07888703626511047,0.9522012578616353,0.9963279108538058
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_High","Director_Other, DurCat_Short",0.08097123801583993,0.9510403916768665,0.9960907660479383
+"Director_Other, MetaCat_High, YearCat_Before_2000",DurCat_Short,0.06315131304710296,0.9950738916256159,0.9960080383894242
+YearCat_Before_2000,"Director_Other, DurCat_Short",0.2743851604835348,0.9508847959552185,0.9959277998238678
+"RatingCategory_Good, MetaCat_Medium",DurCat_Short,0.11911213005418925,0.9947780678851175,0.9957119369381023
+"Director_Other, RatingCategory_Good, MetaCat_Medium",DurCat_Short,0.11358899541475614,0.9945255474452555,0.9954591794393106
+"YearCat_2015_plus, RatingCategory_Average, VotesCat_High",Director_Other,0.08097123801583993,0.9510403916768665,0.9951132481224743
+"YearCat_2015_plus, RatingCategory_Average, DurCat_Short, VotesCat_High",Director_Other,0.08097123801583993,0.9510403916768665,0.9951132481224743
+"RatingCategory_Good, YearCat_Before_2000",DurCat_Short,0.08555648186744477,0.993946731234867,0.9948798198529033
+"Director_Other, RatingCategory_Good, YearCat_Before_2000",DurCat_Short,0.07919966652771988,0.9934640522875816,0.9943966877804978
+"Genre_Action, RatingCategory_Average, VotesCat_High","Director_Other, DurCat_Short",0.07909545644018341,0.94875,0.9936918795022921
+"RatingCategory_Good, MetaCat_Medium","Director_Other, DurCat_Short",0.11358899541475614,0.948651000870322,0.9935881908264145
+"VotesCat_Medium, RatingCategory_Good",DurCat_Short,0.09087119633180492,0.9920364050056882,0.9929677002643772
+"Director_Other, VotesCat_Medium, RatingCategory_Good",DurCat_Short,0.08868278449353897,0.9918414918414918,0.9927726041213055
+"Genre_Action, RatingCategory_Average, VotesCat_High",Director_Other,0.07909545644018341,0.94875,0.9927167157343801
+"Genre_Action, RatingCategory_Average, DurCat_Short, VotesCat_High",Director_Other,0.07909545644018341,0.94875,0.9927167157343801
+"Genre_Drama, YearCat_Before_2000",Director_Other,0.06158816173405585,0.9486356340288925,0.9925970498463911
+"DurCat_Short, Genre_Drama, YearCat_Before_2000",Director_Other,0.06148395164651938,0.9485530546623795,0.992510643609224
+Genre_Horror,"Director_Other, DurCat_Short",0.062109212171738225,0.9475357710651828,0.9924201330649961
+"Genre_Drama, YearCat_Before_2000","Director_Other, DurCat_Short",0.06148395164651938,0.9470304975922954,0.9918909250049844
+"RatingCategory_Average, MetaCat_High","Director_Other, DurCat_Short",0.07075864943726552,0.9470013947001393,0.9918604435213422
+"DurCat_Short, Genre_Horror",Director_Other,0.062109212171738225,0.9475357710651828,0.9914462173308793
+Genre_Horror,Director_Other,0.062109212171738225,0.9475357710651828,0.9914462173308793
+"RatingCategory_Average, MetaCat_High",Director_Other,0.07075864943726552,0.9470013947001393,0.9908870770409484
+"RatingCategory_Average, DurCat_Short, MetaCat_High",Director_Other,0.07075864943726552,0.9470013947001393,0.9908870770409484
+"RatingCategory_Average, VotesCat_High","Director_Other, DurCat_Short",0.2047728220091705,0.9438040345821326,0.988511625829529
+"RatingCategory_Average, YearCat_2000_2015, VotesCat_High","Director_Other, DurCat_Short",0.068882867861609,0.9429386590584878,0.9876052578394727
+"RatingCategory_Average, DurCat_Short, VotesCat_High",Director_Other,0.2047728220091705,0.9438040345821326,0.9875415457256728
+"RatingCategory_Average, VotesCat_High",Director_Other,0.2047728220091705,0.9438040345821326,0.9875415457256728
+Genre_Adventure,"Director_Other, DurCat_Short",0.052938724468528556,0.9424860853432282,0.9871312459019448
+"RatingCategory_Average, YearCat_2000_2015, VotesCat_High",Director_Other,0.068882867861609,0.9429386590584878,0.9866360672037128
+"RatingCategory_Average, DurCat_Short, YearCat_2000_2015, VotesCat_High",Director_Other,0.068882867861609,0.9429386590584878,0.9866360672037128
+Genre_Adventure,Director_Other,0.052938724468528556,0.9424860853432282,0.9861625204398231
+"Genre_Adventure, DurCat_Short",Director_Other,0.052938724468528556,0.9424860853432282,0.9861625204398231
+"Genre_Action, YearCat_2000_2015","Director_Other, DurCat_Short",0.07107127969987495,0.9406896551724139,0.9852497196064706
+"RatingCategory_Average, Certificate_UA","Director_Other, DurCat_Short",0.06523551479783243,0.9399399399399401,0.9844644906858399
+"Certificate_U, RatingCategory_Average","Director_Other, DurCat_Short",0.060337640683618174,0.939935064935065,0.9844593847540802
+"Genre_Action, YearCat_2000_2015",Director_Other,0.07107127969987495,0.9406896551724139,0.9842828405882111
+"Genre_Action, YearCat_2000_2015, DurCat_Short",Director_Other,0.07107127969987495,0.9406896551724139,0.9842828405882111
+"Genre_Action, Certificate_UA","Director_Other, DurCat_Short",0.05345977490621092,0.9395604395604396,0.9840670135365617
+"RatingCategory_Average, Certificate_UA",Director_Other,0.06523551479783243,0.9399399399399401,0.9834983822553337
+"RatingCategory_Average, DurCat_Short, Certificate_UA",Director_Other,0.06523551479783243,0.9399399399399401,0.9834983822553337
+"Certificate_U, RatingCategory_Average, DurCat_Short",Director_Other,0.060337640683618174,0.939935064935065,0.983493281334302
+"Certificate_U, RatingCategory_Average",Director_Other,0.060337640683618174,0.939935064935065,0.983493281334302
+"Genre_Drama, RatingCategory_Good",Director_Other,0.07982492705293873,0.939877300613497,0.983432840114177
+"DurCat_Short, Genre_Drama, RatingCategory_Good",Director_Other,0.0795122967903293,0.9396551724137931,0.9832004181095584
+"Genre_Action, DurCat_Short, Certificate_UA",Director_Other,0.05345977490621092,0.9395604395604396,0.9831012951719527
+"Genre_Action, Certificate_UA",Director_Other,0.05345977490621092,0.9395604395604396,0.9831012951719527
+"Certificate_U, MetaCat_Medium","Director_Other, DurCat_Short",0.053876615256356813,0.9382940108892922,0.9827405946838734
+"YearCat_2015_plus, RatingCategory_Good",Director_Other,0.11400583576490204,0.9390557939914164,0.982573263454545
+"YearCat_2015_plus, DurCat_Short, RatingCategory_Good",Director_Other,0.1137974155898291,0.9389509888220121,0.9824636014323442
+"Genre_Action, YearCat_2015_plus, VotesCat_High","Director_Other, DurCat_Short",0.05168820341809087,0.9376181474480151,0.9820327158820293
+"Certificate_U, DurCat_Short, MetaCat_Medium",Director_Other,0.053876615256356813,0.9382940108892922,0.9817761780060679
+"Certificate_U, MetaCat_Medium",Director_Other,0.053876615256356813,0.9382940108892922,0.9817761780060679
+"YearCat_2015_plus, RatingCategory_Good","Director_Other, DurCat_Short",0.1137974155898291,0.9373390557939915,0.9817404037763744
+"MetaCat_Medium, Certificate_UA","Director_Other, DurCat_Short",0.05106294289287203,0.9369024856596558,0.9812831535025167
+"Genre_Action, YearCat_2015_plus, DurCat_Short, VotesCat_High",Director_Other,0.05168820341809087,0.9376181474480151,0.9810689938841078
+"Genre_Action, YearCat_2015_plus, VotesCat_High",Director_Other,0.05168820341809087,0.9376181474480151,0.9810689938841078
+"Genre_Drama, RatingCategory_Good","Director_Other, DurCat_Short",0.0795122967903293,0.9361963190184048,0.9805435360511474
+"MetaCat_Medium, Certificate_UA",Director_Other,0.05106294289287203,0.9369024856596558,0.9803201670908361
+"MetaCat_Medium, DurCat_Short, Certificate_UA",Director_Other,0.05106294289287203,0.9369024856596558,0.9803201670908361
+Certificate_U,"Director_Other, DurCat_Short",0.12328053355564819,0.9351778656126482,0.9794768389455328
+"RatingCategory_Average, VotesCat_High, Certificate_UA","Director_Other, DurCat_Short",0.05054189245518966,0.9344894026974951,0.9787557638381537
+"RatingCategory_Average, VotesCat_High, YearCat_Before_2000","Director_Other, DurCat_Short",0.05491871613172155,0.9343971631205673,0.9786591549121332
+"Certificate_U, DurCat_Short",Director_Other,0.12328053355564819,0.9351778656126482,0.9785156251683538
+Certificate_U,Director_Other,0.12328053355564819,0.9351778656126482,0.9785156251683538
+"VotesCat_High, RatingCategory_Average, DurCat_Short, Certificate_UA",Director_Other,0.05054189245518966,0.9344894026974951,0.9777952576911093
+"RatingCategory_Average, VotesCat_High, Certificate_UA",Director_Other,0.05054189245518966,0.9344894026974951,0.9777952576911093
+"RatingCategory_Average, VotesCat_High, YearCat_Before_2000",Director_Other,0.05491871613172155,0.9343971631205673,0.9776987435726708
+"VotesCat_High, RatingCategory_Average, DurCat_Short, YearCat_Before_2000",Director_Other,0.05491871613172155,0.9343971631205673,0.9776987435726708
+"YearCat_2015_plus, VotesCat_High","Director_Other, DurCat_Short",0.1605877448937057,0.9328087167070218,0.9769954644750689
+"YearCat_2015_plus, VotesCat_High",Director_Other,0.1605877448937057,0.9328087167070218,0.9760366858053191
+"YearCat_2015_plus, DurCat_Short, VotesCat_High",Director_Other,0.1605877448937057,0.9328087167070218,0.9760366858053191
+"Genre_Action, VotesCat_High","Director_Other, DurCat_Short",0.12140475197999166,0.9312549960031974,0.9753681446896619
+"Genre_Action, VotesCat_High",Director_Other,0.12150896206752813,0.9320543565147881,0.9752473672572137
+"Genre_Action, DurCat_Short, VotesCat_High",Director_Other,0.12140475197999166,0.9319999999999999,0.975190491767528
+"YearCat_2015_plus, VotesCat_High, MetaCat_Medium","Director_Other, DurCat_Short",0.0653397248853689,0.93026706231454,0.974333413007021
+Genre_Biography,Director_Other,0.05189662359316382,0.9308411214953272,0.9739779088288256
+"DurCat_Short, Genre_Biography",Director_Other,0.05179241350562735,0.9307116104868914,0.9738423960562873
+"MetaCat_Medium, YearCat_2015_plus, VotesCat_High",Director_Other,0.0653397248853689,0.93026706231454,0.9733772467528434
+"VotesCat_High, YearCat_2015_plus, DurCat_Short, MetaCat_Medium",Director_Other,0.0653397248853689,0.93026706231454,0.9733772467528434
+Genre_Biography,"Director_Other, DurCat_Short",0.05179241350562735,0.9289719626168226,0.9729769649935636
+"YearCat_2015_plus, MetaCat_High","Director_Other, DurCat_Short",0.09358065860775323,0.9286452947259566,0.9726348229851866
+RatingCategory_Good,Director_Other,0.27782409337223846,0.929243638898571,0.9723063961259064
+"RatingCategory_Average, VotesCat_High, MetaCat_Medium","Director_Other, DurCat_Short",0.10525218841183827,0.9283088235294118,0.9722824132927566
+"DurCat_Short, RatingCategory_Good",Director_Other,0.27688620258441016,0.9290209790209789,0.9720734178045266
+"YearCat_2015_plus, MetaCat_High",Director_Other,0.09358065860775323,0.9286452947259566,0.971680323649578
+"YearCat_2015_plus, DurCat_Short, MetaCat_High",Director_Other,0.09358065860775323,0.9286452947259566,0.971680323649578
+"MetaCat_Medium, RatingCategory_Average, VotesCat_High",Director_Other,0.10525218841183827,0.9283088235294118,0.9713282597959041
+"VotesCat_High, RatingCategory_Average, DurCat_Short, MetaCat_Medium",Director_Other,0.10525218841183827,0.9283088235294118,0.9713282597959041
+"MetaCat_High, Genre_Drama",Director_Other,0.06586077532305128,0.9280469897209985,0.9710542921560029
+"MetaCat_High, DurCat_Short, Genre_Drama",Director_Other,0.06575656523551479,0.927941176470588,0.9709435753365787
+"MetaCat_High, Genre_Drama","Director_Other, DurCat_Short",0.06575656523551479,0.9265785609397943,0.970470188908346
+Certificate_UA,"Director_Other, DurCat_Short",0.11515214672780325,0.9262363788767812,0.970111797828159
+RatingCategory_Good,"Director_Other, DurCat_Short",0.27688620258441016,0.9261066573719066,0.9699759314713835
+"Certificate_U, RatingCategory_Good","Director_Other, DurCat_Short",0.05075031263026261,0.9258555133079848,0.969712890821155
+"DurCat_Short, Certificate_UA",Director_Other,0.11515214672780325,0.9262363788767812,0.9691597744740588
+Certificate_UA,Director_Other,0.11515214672780325,0.9262363788767812,0.9691597744740588
+"RatingCategory_Good, YearCat_Before_2000",Director_Other,0.07972071696540226,0.9261501210653754,0.9690695193265012
+"Certificate_U, DurCat_Short, RatingCategory_Good",Director_Other,0.05075031263026261,0.9258555133079848,0.968761258936149
+"Certificate_U, RatingCategory_Good",Director_Other,0.05075031263026261,0.9258555133079848,0.968761258936149
+"DurCat_Short, RatingCategory_Good, YearCat_Before_2000",Director_Other,0.07919966652771988,0.9257003654080389,0.9685989212142124
+VotesCat_High,"Director_Other, DurCat_Short",0.39120466861192166,0.9244028564393006,0.9681914222212976
+"MetaCat_Medium, VotesCat_High","Director_Other, DurCat_Short",0.1606919549812422,0.9239065308568005,0.967671585909393
+"YearCat_2015_plus, MetaCat_High, RatingCategory_Good","Director_Other, DurCat_Short",0.06450604418507712,0.9238805970149254,0.9676444235925807
+VotesCat_High,Director_Other,0.39130887869945813,0.9246491012065994,0.9674989396116593
+"DurCat_Short, VotesCat_High",Director_Other,0.39120466861192166,0.9246305418719212,0.9674795202053164
+"Certificate_A, MetaCat_Medium","Director_Other, DurCat_Short",0.0637765735723218,0.9230769230769231,0.9668026799657449
+"MetaCat_Medium, DurCat_Short, VotesCat_High",Director_Other,0.1606919549812422,0.9239065308568005,0.9667219572676762
+"MetaCat_Medium, VotesCat_High",Director_Other,0.1606919549812422,0.9239065308568005,0.9667219572676762
+"YearCat_2015_plus, DurCat_Short, MetaCat_High, RatingCategory_Good",Director_Other,0.06450604418507712,0.9238805970149254,0.9666948216067195
+"YearCat_2015_plus, MetaCat_High, RatingCategory_Good",Director_Other,0.06450604418507712,0.9238805970149254,0.9666948216067195
+"DurCat_Short, Certificate_A, MetaCat_Medium",Director_Other,0.0637765735723218,0.9230769230769231,0.9658539040285852
+"Certificate_A, MetaCat_Medium",Director_Other,0.0637765735723218,0.9230769230769231,0.9658539040285852
+"YearCat_2000_2015, VotesCat_High","Director_Other, DurCat_Short",0.12661525635681534,0.9211523881728582,0.9647869806708957
+MetaCat_High,Director_Other,0.22790746144226762,0.9220067453625632,0.9647341324282147
+"Genre_Drama, VotesCat_High","Director_Other, DurCat_Short",0.06200500208420175,0.9210526315789473,0.9646824986500304
+"MetaCat_High, DurCat_Short",Director_Other,0.2275948311796582,0.9219079780498101,0.9646307880673839
+MetaCat_High,"Director_Other, DurCat_Short",0.2275948311796582,0.9207419898819562,0.9643571419894403
+"YearCat_2000_2015, VotesCat_High, MetaCat_Medium","Director_Other, DurCat_Short",0.05054189245518966,0.920303605313093,0.9638979913320717
+"YearCat_2000_2015, VotesCat_High",Director_Other,0.12661525635681534,0.9211523881728582,0.9638401828488439
+"YearCat_2000_2015, DurCat_Short, VotesCat_High",Director_Other,0.12661525635681534,0.9211523881728582,0.9638401828488439
+"DurCat_Short, Genre_Drama, VotesCat_High",Director_Other,0.06200500208420175,0.9210526315789473,0.9637358033618557
+"Genre_Drama, VotesCat_High",Director_Other,0.06200500208420175,0.9210526315789473,0.9637358033618557
+"RatingCategory_Good, YearCat_Before_2000","Director_Other, DurCat_Short",0.07919966652771988,0.9200968523002422,0.9636814445179136
+"VotesCat_High, YearCat_2000_2015, DurCat_Short, MetaCat_Medium",Director_Other,0.05054189245518966,0.920303605313093,0.9629520659235024
+"MetaCat_Medium, YearCat_2000_2015, VotesCat_High",Director_Other,0.05054189245518966,0.920303605313093,0.9629520659235024
+"MetaCat_High, YearCat_Before_2000",Director_Other,0.06346394330971238,0.9199395770392749,0.962571167949938
+"MetaCat_High, DurCat_Short, YearCat_Before_2000",Director_Other,0.06315131304710296,0.9195751138088013,0.9621898148630746
+Certificate_A,Director_Other,0.14120466861192163,0.9192672998643147,0.9618677362880781
+"Certificate_U, VotesCat_High","Director_Other, DurCat_Short",0.07617757398916215,0.9183417085427136,0.9618431603553678
+"DurCat_Short, Certificate_A",Director_Other,0.1409962484368487,0.9191576086956521,0.9617529618409637
+"YearCat_2000_2015, RatingCategory_Good",Director_Other,0.08409754064193414,0.9191343963553531,0.9617286738006726
+"YearCat_2000_2015, DurCat_Short, RatingCategory_Good",Director_Other,0.08388912046686119,0.9189497716894977,0.9615354933085182
+Certificate_A,"Director_Other, DurCat_Short",0.1409962484368487,0.917910447761194,0.9613914709360858
+"VotesCat_High, RatingCategory_Good, MetaCat_Medium","Director_Other, DurCat_Short",0.052417674030846184,0.9178832116788321,0.961362944692215
+"Certificate_U, DurCat_Short, VotesCat_High",Director_Other,0.07617757398916215,0.9183417085427136,0.9608992514639494
+"Certificate_U, VotesCat_High",Director_Other,0.07617757398916215,0.9183417085427136,0.9608992514639494
+"Genre_Action, VotesCat_High, MetaCat_Medium","Director_Other, DurCat_Short",0.054189245518966235,0.9171075837742504,0.9605505756273419
+"VotesCat_High, DurCat_Short, RatingCategory_Good, MetaCat_Medium",Director_Other,0.052417674030846184,0.9178832116788321,0.9604195070624876
+"MetaCat_Medium, RatingCategory_Good, VotesCat_High",Director_Other,0.052417674030846184,0.9178832116788321,0.9604195070624876
+"YearCat_2000_2015, RatingCategory_Good","Director_Other, DurCat_Short",0.08388912046686119,0.9168564920273348,0.9602875897723537
+"Genre_Action, MetaCat_Medium, VotesCat_High",Director_Other,0.054189245518966235,0.9171075837742504,0.9596079352194643
+"VotesCat_High, Genre_Action, DurCat_Short, MetaCat_Medium",Director_Other,0.054189245518966235,0.9171075837742504,0.9596079352194643
+"YearCat_2015_plus, Certificate_A","Director_Other, DurCat_Short",0.05773238849520634,0.915702479338843,0.9590789119990764
+"VotesCat_High, YearCat_Before_2000",Director_Other,0.10410587744893705,0.9165137614678899,0.9589865941604919
+"VotesCat_High, YearCat_Before_2000","Director_Other, DurCat_Short",0.10400166736140058,0.9155963302752294,0.9589677346999673
+"VotesCat_High, DurCat_Short, YearCat_Before_2000",Director_Other,0.10400166736140058,0.9164370982552801,0.9589063782420312
+"MetaCat_High, YearCat_Before_2000","Director_Other, DurCat_Short",0.06315131304710296,0.9154078549848943,0.9587703314161805
+"VotesCat_High, Certificate_UA","Director_Other, DurCat_Short",0.08899541475614839,0.915326902465166,0.9586855442104053
+"MetaCat_High, YearCat_2000_2015","Director_Other, DurCat_Short",0.07086285952480201,0.9152086137281292,0.9585616521867636
+"YearCat_2015_plus, Certificate_A",Director_Other,0.05773238849520634,0.915702479338843,0.9581377158145826
+"YearCat_2015_plus, DurCat_Short, Certificate_A",Director_Other,0.05773238849520634,0.915702479338843,0.9581377158145826
+Genre_Crime,"Director_Other, DurCat_Short",0.06461025427261359,0.9144542772861357,0.9577715831519056
+"VotesCat_High, Certificate_UA",Director_Other,0.08899541475614839,0.915326902465166,0.9577447340590702
+"VotesCat_High, DurCat_Short, Certificate_UA",Director_Other,0.08899541475614839,0.915326902465166,0.9577447340590702
+"MetaCat_High, YearCat_2000_2015",Director_Other,0.07086285952480201,0.9152086137281292,0.9576209636173949
+"MetaCat_High, DurCat_Short, YearCat_2000_2015",Director_Other,0.07086285952480201,0.9152086137281292,0.9576209636173949
+Genre_Crime,Director_Other,0.06461025427261359,0.9144542772861357,0.9568316699201569
+"Genre_Crime, DurCat_Short",Director_Other,0.06461025427261359,0.9144542772861357,0.9568316699201569
+"MetaCat_High, RatingCategory_Good",Director_Other,0.1562109212171738,0.910692588092345,0.9528956575437949
+"MetaCat_High, DurCat_Short, RatingCategory_Good",Director_Other,0.1558982909545644,0.9105295191722458,0.9527250317279327
+"YearCat_2015_plus, RatingCategory_Good, VotesCat_High","Director_Other, DurCat_Short",0.06971654856190079,0.9089673913043478,0.9520247857407249
+"MetaCat_High, RatingCategory_Good","Director_Other, DurCat_Short",0.1558982909545644,0.9088699878493317,0.9519227683259318
+"YearCat_2015_plus, DurCat_Short, RatingCategory_Good, VotesCat_High",Director_Other,0.06971654856190079,0.9089673913043478,0.9510905121531481
+"YearCat_2015_plus, RatingCategory_Good, VotesCat_High",Director_Other,0.06971654856190079,0.9089673913043478,0.9510905121531481
+"YearCat_2015_plus, MetaCat_High, VotesCat_High","Director_Other, DurCat_Short",0.055856606919549814,0.9054054054054054,0.9482940701015357
+"YearCat_2015_plus, DurCat_Short, MetaCat_High, VotesCat_High",Director_Other,0.055856606919549814,0.9054054054054054,0.9473634576676775
+"YearCat_2015_plus, MetaCat_High, VotesCat_High",Director_Other,0.055856606919549814,0.9054054054054054,0.9473634576676775
+"Certificate_A, VotesCat_High",Director_Other,0.0936848686952897,0.9008016032064129,0.9425463073131325
+"DurCat_Short, Certificate_A, VotesCat_High",Director_Other,0.09358065860775323,0.9007021063189569,0.9424421995678455
+"Certificate_A, VotesCat_High","Director_Other, DurCat_Short",0.09358065860775323,0.8997995991983968,0.9424227192652058
+"RatingCategory_Good, VotesCat_High","Director_Other, DurCat_Short",0.16350562734472696,0.8955479452054793,0.9379696662510129
+"RatingCategory_Good, VotesCat_High",Director_Other,0.16360983743226346,0.8961187214611872,0.9376464127294246
+"DurCat_Short, RatingCategory_Good, VotesCat_High",Director_Other,0.16350562734472696,0.896059394631639,0.9375843365919974
+"MetaCat_High, VotesCat_High","Director_Other, DurCat_Short",0.13078365985827428,0.8907026259758695,0.9328948263331635
+"MetaCat_High, VotesCat_High",Director_Other,0.13088786994581075,0.8914123491838183,0.9327219390216902
+"MetaCat_High, DurCat_Short, VotesCat_High",Director_Other,0.13078365985827428,0.8913352272727273,0.9326412431478673
+"MetaCat_High, RatingCategory_Good, VotesCat_High",Director_Other,0.10587744893705711,0.8834782608695653,0.9244201713340255
+"MetaCat_High, RatingCategory_Good, VotesCat_High","Director_Other, DurCat_Short",0.10577323884952064,0.8826086956521739,0.9244174900107248
+"MetaCat_High, DurCat_Short, RatingCategory_Good, VotesCat_High",Director_Other,0.10577323884952064,0.8833768494342907,0.9243140603174631
