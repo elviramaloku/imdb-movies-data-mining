@@ -44,7 +44,7 @@ imdb-movies-data-mining/
 
 ## Dataset
 
-The dataset was sourced from Kaggle: **IMDb Movies Dataset**.
+The project uses an IMDb Movies Dataset containing 10,000 movie records. The original dataset is not included in this repository while its redistribution license is being verified.
 
 **Source:** [Add the exact Kaggle dataset URL here]
 

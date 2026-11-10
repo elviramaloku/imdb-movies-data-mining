@@ -27,3 +27,5 @@ build/
 
 classification_output.txt
 clustering_output.txt
+
+data/imdb-movies-dataset.csv
